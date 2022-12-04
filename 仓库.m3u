@@ -36,7 +36,8 @@ http://124.220.17.172/shtv/ybhg.php?id=2288631710
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://124.220.17.172/CCTV/CCTV17.png" group-title="央视(线路1)",CCTV17
 http://124.220.17.172/shtv/ybhg.php?id=2236041711
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://124.220.17.172/CCTV/CCTV4K.png" group-title="央视(线路1)",CCTV4K
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3                                        #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路2)",CCTV1
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3      
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路2)",CCTV1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://124.220.17.172/CCTV/CCTV2.png" group-title="央视(线路2)",CCTV2
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225619/index.m3u8
@@ -73,7 +74,8 @@ http://124.220.17.172/shtv/ybhg.php?id=2288631710
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://124.220.17.172/CCTV/CCTV17.png" group-title="央视(线路2)",CCTV17
 http://124.220.17.172/shtv/ybhg.php?id=2236041711
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://124.220.17.172/CCTV/CCTV4K.png" group-title="央视(线路2)",CCTV4K
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1                                                                 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路3)",CCTV1
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1                                                               
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路3)",CCTV1
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://124.220.17.172/CCTV/CCTV2.png" group-title="央视(线路3)",CCTV2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
@@ -110,7 +112,8 @@ http://124.220.17.172/shtv/ybhg.php?id=2288631710
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://124.220.17.172/CCTV/CCTV17.png" group-title="央视(线路3)",CCTV17
 http://124.220.17.172/shtv/ybhg.php?id=2236041711
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://124.220.17.172/CCTV/CCTV4K.png" group-title="央视(线路3)",CCTV4K
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8?servicetype=3                                                                         #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路4)",CCTV1
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8?servicetype=3                                                                       
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路4)",CCTV1
 http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210101.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://124.220.17.172/CCTV/CCTV2.png" group-title="央视(线路4)",CCTV2
 http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203601.m3u8
@@ -246,7 +249,6 @@ http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel8/2300.m
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/2300.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://124.220.17.172/CCTV/CCTV10.png" group-title="央视(线路7)",CCTV10
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
-a
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://124.220.17.172/CCTV/CCTV11.png" group-title="央视(线路7)",CCTV11
 http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://124.220.17.172/CCTV/CCTV12.png" group-title="央视(线路7)",CCTV12
@@ -340,9 +342,12 @@ http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://124.220.17.172/CCTV/CCTV4K.png" group-title="央视(线路9)",CCTV4K
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁都市" tvg-id="辽宁都市" tvg-name="辽宁都市",辽宁都市
-http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226760/index.m3u8                      #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁生活" tvg-id="辽宁生活" tvg-name="辽宁生活",辽宁生活
-http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226761/index.m3u8?from=21                                                 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁体育" tvg-id="辽宁体育" tvg-name="辽宁体育",辽宁体育
-http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226764/index.m3u8                        #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/沈阳新闻" tvg-id="沈阳新闻" tvg-name="沈阳新闻",沈阳新闻
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226760/index.m3u8                      
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁生活" tvg-id="辽宁生活" tvg-name="辽宁生活",辽宁生活
+http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226761/index.m3u8?from=21                                                 
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁体育" tvg-id="辽宁体育" tvg-name="辽宁体育",辽宁体育
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226764/index.m3u8                        
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/沈阳新闻" tvg-id="沈阳新闻" tvg-name="沈阳新闻",沈阳新闻
 https://epg.pm/stream/fa238f5662bb620dbf8aaeb36818c2dd7e51ecc2b3d29e76bfd248a8439b2a92.ctv
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/沈阳新闻" tvg-id="沈阳新闻" tvg-name="沈阳新闻",沈阳新闻
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059
@@ -351,9 +356,12 @@ http://42.176.185.28:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁经济" tvg-id="辽宁经济" tvg-name="辽宁经济",辽宁经济
 http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁公共" tvg-id="辽宁公共" tvg-name="辽宁公共",辽宁公共
-http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226766/index.m3u8                       #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁北方" tvg-id="辽宁北方" tvg-name="辽宁北方",辽宁北方
-http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226755/index.m3u8                     #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁影视剧" tvg-id="辽宁影视剧" tvg-name="辽宁影视剧",辽宁影视剧
-http://[2409:8087:1414:22::112d]/wh7f454c46tw3605758820_-2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226738/index.m3u8                        #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://124.220.17.172/ws/beijing.png" group-title="卫视(线路1)",北京卫视
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226766/index.m3u8                       
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁北方" tvg-id="辽宁北方" tvg-name="辽宁北方",辽宁北方
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226755/index.m3u8                     
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁影视剧" tvg-id="辽宁影视剧" tvg-name="辽宁影视剧",辽宁影视剧
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3605758820_-2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226738/index.m3u8                        
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://124.220.17.172/ws/beijing.png" group-title="卫视(线路1)",北京卫视
 http://live.cooltv.top/tv/aishang.php?id=bjwshd
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://124.220.17.172/ws/dongfang.png" group-title="卫视(线路1)",东方卫视
 http://live.cooltv.top/tv/aishang.php?id=dfwshd
@@ -1151,7 +1159,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225771/index.m3u8?
 http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225769/index.m3u8?
 #EXTINF:-1,咪咕视频
 http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225654/index.m3u8?
-
 #EXTINF:-1,百视通剧集1
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8?servicetype=3
 #EXTINF:-1,百视通剧集2
@@ -1196,8 +1203,6 @@ http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227032/index.m3u8?se
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227048/index.m3u8?servicetype=3
 #EXTINF:-1,百视通超级体育
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227052/index.m3u8?servicetype=3
-#EXTINF:-1 ,====== 爱系列,#genre# ======
-http://4/4.m3u8
 #EXTINF:-1 tvg-logo="http://124.220.17.172/ai/ayx.png" group-title="Hot系列",iHOT爱院线
 http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://124.220.17.172/ai/akh.png" group-title="Hot系列",iHOT爱科幻
@@ -1258,8 +1263,6 @@ http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000190630&l
 http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://124.220.17.172/ai/asj.png" group-title="Hot系列",iHOT爱世界
 http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 ,====== NEW,#genre# ======
-http://5/5.m3u8
 #EXTINF:-1 ,黑莓电影 4M1080
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/jdianying/index.m3u8
 #EXTINF:-1 ,黑莓动画 4M1080
@@ -1434,8 +1437,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225765/index.m3u8
 http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225749/index.m3u8
 #EXTINF:-1 ,哒啵赛事 4M1080
 http://[2409:8087:3800:20:1000::809]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225749/index.m3u8
-#EXTINF:-1 ,====== SITV,#genre# ======
-http://6/6.m3u8
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="http://124.220.17.172/qt/quanjishi.png" group-title="SiTV系列",SiTV全纪实
 http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="http://124.220.17.172/qt/dongmanxiuchang.png" group-title="SiTV系列",SiTV动漫秀场
@@ -1461,8 +1462,6 @@ http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
 http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 ,SiTV东方财经   tvg-logo="http://124.220.17.172/qt/quanjishi.png"
 http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
-#EXTINF:-1 ,====== 爱奇艺,#genre# ======
-http://7/7.m3u8
 #EXTINF:-1 ,爱奇频道 爱奇艺-爱情保卫战
 http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_142_600_t10/c54_lb_142_600_t10.m3u8?key
 #EXTINF:-1 ,爱奇艺-第三调解室
@@ -1505,8 +1504,6 @@ http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_2
 http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_72_720P_t10/c53_lb_72_720P_t10.m3u8?key 爱奇艺-小说改编,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_174_600_t10/c54_lb_174_600_t10.m3u8?key
 #EXTINF:-1 ,爱奇艺-央视大剧
 http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_90_600_t10/c54_lb_90_600_t10.m3u8?key 爱奇艺-院线电影,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8?key 爱奇艺-粤语原声,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_185_600_t10/c56_lb_185_600_t10.m3u8?key 爱奇艺-自然地理,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key [Group]
-#EXTINF:-1 ,====== 东森,#genre# ======
-http://8/8.m3u8
 #EXTINF:-1 ,东森电影
 http://120.84.96.78:808/hls/32/index.m3u8
 #EXTINF:-1 ,东森电影
@@ -1517,8 +1514,6 @@ http://120.84.96.74:808/hls/32/index.m3u8
 http://120.84.96.78:808/hls/33/index.m3u8
 #EXTINF:-1 ,东森洋片HD
 http://120.84.96.62:808/hls/33/index.m3u8?blog.ntnas.top
-#EXTINF:-1 ,====== 斗鱼电影,#genre# ======
-http://9/9.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="http://124.220.17.172/fh/heimei1.png" group-title="黑莓系列",黑莓电影
 http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225769/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="http://124.220.17.172/fh/heimei1.png" group-title="黑莓系列",黑莓电影
@@ -2463,8 +2458,6 @@ http://data.3g.yy.com/live/hls/33897188/33897188
 http://data.3g.yy.com/live/hls/1343000940/1343000940
 #EXTINF:-1,YY电影30
 http://data.3g.yy.com/live/hls/1353059120/1353059120
-#EXTINF:-1 ,====== 虎牙视频,#genre# ======
-http://10/10.m3u8
 #EXTINF:-1 ,海浪+风铃+蝉鸣减压房
 http://txtest-xp2p.p2p.huya.com/src/1099531785198-1099531785198-86575468261670912-2199063693852-10057-A-0-1.xs
 #EXTINF:-1 ,1905电影网
