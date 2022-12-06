@@ -342,25 +342,35 @@ http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://124.220.17.172/CCTV/CCTV4K.png" group-title="央视(线路9)",CCTV4K
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁都市" tvg-id="辽宁都市" tvg-name="辽宁都市",辽宁都市
+http://[2409:8087:1414:22::1108]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227355/index.m3u8 
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁经济" tvg-id="辽宁经济" tvg-name="辽宁经济",辽宁经济
+http://[2409:8087:1414:22::111b]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226735/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁生活" tvg-id="辽宁生活" tvg-name="辽宁生活",辽宁生活
+http://[2409:8087:1414:22::1129]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227319/index.m3u8                                               
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁体育" tvg-id="辽宁体育" tvg-name="辽宁体育",辽宁体育
+http://[2409:8087:1414:22::112a]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227334/index.m3u8                        
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/沈阳新闻" tvg-id="沈阳新闻" tvg-name="沈阳新闻",沈阳新闻
+http://[2409:8087:1414:22::1122]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227315/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁都市" tvg-id="辽宁都市" tvg-name="辽宁都市",辽宁都市
 http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226760/index.m3u8                      
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁生活" tvg-id="辽宁生活" tvg-name="辽宁生活",辽宁生活
 http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226761/index.m3u8?from=21                                                 
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁体育" tvg-id="辽宁体育" tvg-name="辽宁体育",辽宁体育
 http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226764/index.m3u8                        
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/沈阳新闻" tvg-id="沈阳新闻" tvg-name="沈阳新闻",沈阳新闻
-https://epg.pm/stream/fa238f5662bb620dbf8aaeb36818c2dd7e51ecc2b3d29e76bfd248a8439b2a92.ctv
+http://[2409:8087:1414:22::1123]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227315/index.m3u8v
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/沈阳新闻" tvg-id="沈阳新闻" tvg-name="沈阳新闻",沈阳新闻
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226895/index.m3u8
+http://[2409:8087:1414:22::112d]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227315/index.m3u8
 #EXTINF:-1,辽宁教育
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
+http://[2409:8087:1414:22::1006]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226763/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁经济" tvg-id="辽宁经济" tvg-name="辽宁经济",辽宁经济
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8
+http://[2409:8087:1414:22::1129]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227322/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁公共" tvg-id="辽宁公共" tvg-name="辽宁公共",辽宁公共
-http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226766/index.m3u8                       
+http://[2409:8087:1414:22::112d]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226766/index.m3u8                      
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁北方" tvg-id="辽宁北方" tvg-name="辽宁北方",辽宁北方
-http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226755/index.m3u8                     
+http://[2409:8087:1414:22::1117]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227327/index.m3u8                    
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁影视剧" tvg-id="辽宁影视剧" tvg-name="辽宁影视剧",辽宁影视剧
-http://[2409:8087:1414:22::112d]/wh7f454c46tw3605758820_-2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226738/index.m3u8                        
+http://[2409:8087:1414:22::1106]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227331/index.m3u8                      
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://124.220.17.172/ws/beijing.png" group-title="卫视(线路1)",北京卫视
 http://live.cooltv.top/tv/aishang.php?id=bjwshd
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://124.220.17.172/ws/dongfang.png" group-title="卫视(线路1)",东方卫视
