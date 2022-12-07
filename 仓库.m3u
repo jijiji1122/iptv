@@ -266,41 +266,41 @@ http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://124.220.17.172/CCTV/CCTV4K.png" group-title="央视(线路7)",CCTV4K
 http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路8)",CCTV1
-http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_6000.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://124.220.17.172/CCTV/CCTV2.png" group-title="央视(线路8)",CCTV2
-http://hls.yun.gehua.net.cn:8088/live/CCTV2HD_6000.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://124.220.17.172/cctv/CCTV3.png" group-title="央视(线路8)",CCTV3
-http://hls.yun.gehua.net.cn:8088/live/CCTV3HD_6000.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://124.220.17.172/cctv/CCTV4.png" group-title="央视(线路8)",CCTV4
-http://hls.yun.gehua.net.cn:8088/live/CCTV4HD_6000.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://124.220.17.172/CCTV/CCTV5.png" group-title="央视(线路8)",CCTV5
 http://124.220.17.172/shtv/ybhg.php?id=103932468
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://124.220.17.172/CCTV/CCTV55.png" group-title="央视(线路8)",CCTV5+
 http://live.cooltv.top/tv/aishang.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://124.220.17.172/CCTV/CCTV6.png" group-title="央视(线路8)",CCTV6
-http://hls.yun.gehua.net.cn:8088/live/CCTV6HD_6000.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://124.220.17.172/CCTV/CCTV7.png" group-title="央视(线路8)",CCTV7
-http://hls.yun.gehua.net.cn:8088/live/CCTV7HD_6000.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510002.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://124.220.17.172/CCTV/CCTV8.png" group-title="央视(线路8)",CCTV8
-http://hls.yun.gehua.net.cn:8088/live/CCTV8HD_6000.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://124.220.17.172/CCTV/CCTV9.png" group-title="央视(线路8)",CCTV9
-http://hls.yun.gehua.net.cn:8088/live/CCTV9HD_6000.m3u8
+http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://124.220.17.172/CCTV/CCTV10.png" group-title="央视(线路8)",CCTV10
-http://hls.yun.gehua.net.cn:8088/live/CCTV10HD_6000.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203502.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://124.220.17.172/CCTV/CCTV11.png" group-title="央视(线路8)",CCTV11
-http://hls.yun.gehua.net.cn:8088/live/CCTV11HD_2000.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://124.220.17.172/CCTV/CCTV12.png" group-title="央视(线路8)",CCTV12
-http://hls.yun.gehua.net.cn:8088/live/CCTV12HD_6000.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000202602.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://124.220.17.172/CCTV/CCTV13.png" group-title="央视(线路8)",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://124.220.17.172/CCTV/CCTV14.png" group-title="央视(线路8)",CCTV14
-http://hls.yun.gehua.net.cn:8088/live/CCTV14HD_6000.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://124.220.17.172/CCTV/CCTV15.png" group-title="央视(线路8)",CCTV15
-http://hls.yun.gehua.net.cn:8088/live/CCTV15HD_6000.m3u8
+http://live.cooltv.top/tv/aishang.php?id=cctv15hd
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172/CCTV/CCTV16.png" group-title="央视(线路8)",CCTV16
-http://hls.yun.gehua.net.cn:8088/live/CCTV16HD_6000.m3u8
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://124.220.17.172/CCTV/CCTV17.png" group-title="央视(线路8)",CCTV17
-http://hls.yun.gehua.net.cn:8088/live/CCTV17HD_6000.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://124.220.17.172/CCTV/CCTV4K.png" group-title="央视(线路8)",CCTV4K
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路9)",CCTV1
@@ -452,53 +452,53 @@ https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 #EXTINF:-1 ,tvg-name="好莱坞电影"     group-title="卫视(线路1)",好莱坞电影
 https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://124.220.17.172/ws/beijing.png" group-title="卫视(线路2)",北京卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://124.220.17.172/ws/dongfang.png" group-title="卫视(线路2)",东方卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://124.220.17.172/ws/jiangsu.png" group-title="卫视(线路2)",江苏卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://124.220.17.172/ws/zhejiang.png" group-title="卫视(线路2)",浙江卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://124.220.17.172/ws/anhui.png" group-title="卫视(线路2)",安徽卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://124.220.17.172/ws/shandong.png" group-title="卫视(线路2)",山东卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/sdwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://124.220.17.172/ws/shanxi_.png" group-title="卫视(线路2)",山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://124.220.17.172/ws/hunan.png" group-title="卫视(线路2)",湖南卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://124.220.17.172/ws/hubei.png" group-title="卫视(线路2)",湖北卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294502.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://124.220.17.172/ws/jiangxi.png" group-title="卫视(线路2)",江西卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://124.220.17.172/ws/chongqing.png" group-title="卫视(线路2)",重庆卫视
-http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cqws/1300000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://124.220.17.172/ws/sichuan.png" group-title="卫视(线路2)",四川卫视
-http://liveauth.sctv.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://124.220.17.172/ws/henan.png" group-title="卫视(线路2)",河南卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/hnws/1300000/mnf.m3u8
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/sdwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://124.220.17.172/ws/tianjin.png" group-title="卫视(线路2)",天津卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/tjwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://124.220.17.172/ws/jilin.png" group-title="卫视(线路2)",吉林卫视
-http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/jlws/1300000/mnf.m3u8
+http://stream1.jlntv.cn/jlws/sd/live.m3u8?_upt=934742a51670420917
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://124.220.17.172/ws/heilongjiang.png" group-title="卫视(线路2)",黑龙江卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://124.220.17.172/ws/dongnan.png" group-title="卫视(线路2)",东南卫视
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292503.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://124.220.17.172/ws/guangdong.png" group-title="卫视(线路2)",广东卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/gdwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://124.220.17.172/ws/guangxi.png" group-title="卫视(线路2)",广西卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://124.220.17.172/ws/guizhou.png" group-title="卫视(线路2)",贵州卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://124.220.17.172/ws/lvyou.png" group-title="卫视(线路2)",海南卫视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://124.220.17.172/ws/qinghai.png" group-title="卫视(线路2)",青海卫视
 http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/qhws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://124.220.17.172/ws/shenzhen.png" group-title="卫视(线路2)",深圳卫视
-http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://124.220.17.172/ws/liaoning.png" group-title="卫视(线路2)",辽宁卫视
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000281302.m3u8
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://124.220.17.172/ws/xinjiang.png" group-title="卫视(线路2)",新疆卫视
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://124.220.17.172/ws/neimeng.png" group-title="卫视(线路2)",内蒙古卫视
@@ -506,9 +506,9 @@ http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/nmgws/1300000/mnf.
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://124.220.17.172/ws/shanxi.png" group-title="卫视(线路2)",陕西卫视
 http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/sxws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://124.220.17.172/ws/hebei.png" group-title="卫视(线路2)",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://124.220.17.172/ws/yunnan.png" group-title="卫视(线路2)",云南卫视
-http://112.25.48.69/live/program/live/ynws/1300000/mnf.m3u8
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF::-1 tvg-name="兵团卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/bingtuan.png" group-title="卫视(线路2)",兵团卫视
 http://112.25.48.69/live/program/live/btws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://124.220.17.172/ws/gansu.png" group-title="卫视(线路2)",甘肃卫视
