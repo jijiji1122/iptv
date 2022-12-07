@@ -367,9 +367,9 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 湖南卫视,http://124.220.17.172/shtv/ybhg.php?id=3051884917
 湖南卫视,http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
 湖南卫视,http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
-辽宁高清,http://live.cooltv.top/tv/yqdtv.php?id=145
-辽宁高清,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000281302.m3u8
-辽宁高清,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
+辽宁卫视,http://live.cooltv.top/tv/yqdtv.php?id=145
+辽宁卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000281302.m3u8
+辽宁卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
 辽宁卫视,http://124.220.17.172/as.php?id=41
 辽宁卫视,http://124.220.17.172/shtv/ybhg.php?id=717870122
 辽宁卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225735/index.m3u8
@@ -544,6 +544,7 @@ CCTV-4K50P-HLG,http://129.204.196.171:5678/gudou.php?id=4005
 CCTV5HD,http://129.204.196.171:5678/gudou.php?id=CCTV5HD_7000
 
 🇨🇳咪咕频道,#genre#
+咪咕NBA,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225857/index.m3u8?
 咪咕4K,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8?
 咪咕,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226235/index.m3u8
 咪咕,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221226238/index.m3u8
@@ -724,7 +725,6 @@ CCTV5HD,http://129.204.196.171:5678/gudou.php?id=CCTV5HD_7000
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225860/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225859/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225858/index.m3u8?
-咪咕NBA,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225857/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225856/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225855/index.m3u8?
 咪咕NBA,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225854/index.m3u8?
