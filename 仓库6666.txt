@@ -6,7 +6,7 @@ CCTV1,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210101.m3u8
 CCTV1,http://124.220.17.172/as.php?id=1
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://175.174.250.224:4000/udp/232.0.0.27:8808
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV2,http://124.220.17.172/shtv/ybhg.php?id=0223374714
 CCTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225619/index.m3u8
@@ -16,7 +16,7 @@ CCTV2,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203601.m3u8
 CCTV2,http://[2409:8087:1414:22::1102]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227304/index.m3u8
 CCTV2,http://124.220.17.172/as.php?id=2
 CCTV2,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV2,http://175.174.250.224:4000/udp/232.0.0.132:9144
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225494/index.m3u8  
 CCTV3,http://124.220.17.172/shtv/ybhg.php?id=392030733
 CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
