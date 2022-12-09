@@ -366,6 +366,8 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 🇨🇳卫视频道,#genre#
 北京卫视,http://[2409:8087:1414:22::1102]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227340/index.m3u8	
 北京卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000272103.m3u8
+北京卫视,http://1.196.83.152:888/hls/64/index.m3u8
+北京卫视,http://1.30.18.218:20080/hls/45/index.m3u8
 北京卫视,http://124.220.17.172/as.php?id=24
 北京卫视,http://live.cooltv.top/tv/aishang.php?id=bjwshd
 北京卫视,http://124.220.17.172/shtv/ybhg.php?id=856425005
@@ -373,7 +375,7 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 北京卫视,http://[2409:8087:3800:20:1000::809]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
 北京卫视,http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?blog.ntnas.top
-东方卫视,http://[2409:8087:1414:22::1104]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226700/index.m3u8
+东方卫视,http://1.196.83.152:888/hls/41/index.m3u8
 东方卫视,http://live.cooltv.top/tv/aishang.php?id=dfwshd
 东方卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292403.m3u8
 东方卫视,http://124.220.17.172/as.php?id=23
@@ -384,24 +386,31 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 江苏卫视,http://[2409:8087:1414:22::1102]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226902/index.m3u8
 江苏卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8
 江苏卫视,http://124.220.17.172/as.php?id=22
+江苏卫视,http://1.196.83.152:888/hls/42/index.m3u8
+江苏卫视,http://1.30.18.218:20080/hls/18/index.m3u8
 江苏卫视,http://live.cooltv.top/tv/aishang.php?id=jswshd
 江苏卫视,http://124.220.17.172/shtv/ybhg.php?id=9186691110
 江苏卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
 江苏卫视,http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225702/index.m3u8
 浙江卫视,http://[2409:8087:1414:22::1102]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227313/index.m3u8	
 浙江卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8
+浙江卫视,http://1.30.18.218:20080/hls/41/index.m3u8
 浙江卫视,http://124.220.17.172/as.php?id=21
+浙江卫视,http://1.196.83.152:888/hls/40/index.m3u8
 浙江卫视,http://124.220.17.172/shtv/ybhg.php?id=257943803
 浙江卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
 浙江卫视,http://live.cooltv.top/tv/aishang.php?id=zjwshd
 浙江卫视,http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225703/index.m3u8
 湖南卫视,http://[2409:8087:1414:22::1102]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227316/index.m3u8
 湖南卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
+湖南卫视,http://1.196.83.152:888/hls/61/index.m3u8
+湖南卫视,http://1.30.18.218:20080/hls/19/index.m3u8
 湖南卫视,http://124.220.17.172/as.php?id=20
 湖南卫视,http://124.220.17.172/shtv/ybhg.php?id=3051884917
 湖南卫视,http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
 湖南卫视,http://live.cooltv.top/tv/aishang.php?id=hunwshd
 湖南卫视,http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
+辽宁卫视,http://1.196.83.152:888/hls/48/index.m3u8
 辽宁卫视,http://live.cooltv.top/tv/yqdtv.php?id=145
 辽宁卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000281302.m3u8
 辽宁卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
@@ -417,12 +426,14 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 湖北卫视,http://124.220.17.172/shtv/ybhg.php?id=9432582210
 湖北卫视,http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225699/index.m3u8
 湖北卫视,http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225596/index.m3u8?fmt=ts2hls
+安徽卫视,http://1.196.83.152:888/hls/43/index.m3u8
 安徽卫视,http://live.cooltv.top/tv/aishang.php?id=ahwshd
 安徽卫视,http://[2409:8087:1414:22::1002]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226746/index.m3u8
 安徽卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000298003.m3u8
 安徽卫视,http://124.220.17.172/as.php?id=32
 安徽卫视,http://124.220.17.172/shtv/ybhg.php?id=443986339
 安徽卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
+山东卫视,http://1.196.83.152:888/hls/46/index.m3u8
 山东卫视,http://live.cooltv.top/tv/aishang.php?id=sdwshd
 山东卫视,http://[2409:8087:1414:22::1002]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226739/index.m3u8
 山东卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294803.m3u8
@@ -435,6 +446,7 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8
 山西卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225730/index.m3u8
 山西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225549/index.m3u8
+江西卫视,http://1.196.83.152:888/hls/54/index.m3u8
 江西卫视,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
 江西卫视,http://[2409:8087:3800:20:1000::809]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
 江西卫视,http://live.cooltv.top/tv/aishang.php?id=jxws
@@ -446,25 +458,30 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 四川卫视,http://live.cooltv.top/tv/aishang.php?id=scws
 河南卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225545/index.m3u8
 河南卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226196/index.m3u8
+河南卫视,http://1.196.83.152:888/hls/20/index.m3u8
 河南卫视,http://live.cooltv.top/tv/aishang.php?id=hnws
+天津卫视,http://1.30.18.218:20080/hls/46/index.m3u8
 天津卫视,http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225698/index.m3u8
 天津卫视,http://[2409:8087:3800:20:1000::809]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225698/index.m3u8
 天津卫视,http://live.cooltv.top/tv/aishang.php?id=tjwshd
 吉林卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225680/index.m3u8
 吉林卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225553/index.m3u8
 吉林卫视,http://live.cooltv.top/tv/aishang.php?id=jlws
+黑龙江卫视,http://1.196.83.152:888/hls/45/index.m3u8
 黑龙江卫视,http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225690/index.m3u8
 黑龙江卫视,http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
 黑龙江卫视,http://live.cooltv.top/tv/aishang.php?id=hljwshd
 东南卫视,http://live.cooltv.top/tv/aishang.php?id=dnwshd
 东南卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225585/index.m3u8
 东南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225657/index.m3u8
+广东卫视,http://1.196.83.152:888/hls/44/index.m3u8
 广东卫视,http://live.cooltv.top/tv/aishang.php?id=gdwshd
 广东卫视,http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225701/index.m3u8
 广东卫视,http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225701/index.m3u8
 广西卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225731/index.m3u8
 广西卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225731/index.m3u8
 广西卫视,http://live.cooltv.top/tv/aishang.php?id=gxws
+贵州卫视,http://1.196.83.152:888/hls/51/index.m3u8
 贵州卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225537/index.m3u8
 贵州卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225537/index.m3u8
 贵州卫视,http://live.cooltv.top/tv/aishang.php?id=gzwshd
@@ -474,6 +491,7 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 青海卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225727/index.m3u8
 青海卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225727/index.m3u8
 青海卫视,http://live.cooltv.top/tv/aishang.php?id=qhws
+深圳卫视,http://1.196.83.152:888/hls/55/index.m3u8
 深圳卫视,http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225700/index.m3u8
 深圳卫视,http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225700/index.m3u8
 深圳卫视,http://live.cooltv.top/tv/aishang.php?id=szwshd
@@ -484,6 +502,7 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 新疆卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225530/index.m3u8
 新疆卫视,http://live.cooltv.top/tv/aishang.php?id=xjws
 内蒙古卫视,http://112.25.48.69/live/program/live/nmgws/1300000/mnf.m3u8
+河北卫视,http://1.196.83.152:888/hls/53/index.m3u8
 河北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225544/index.m3u8
 河北卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225732/index.m3u8
 河北卫视,http://live.cooltv.top/tv/aishang.php?id=hbwshd
@@ -492,6 +511,7 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 云南卫视,http://live.cooltv.top/tv/aishang.php?id=ynws
 兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 陕西卫视,http://live.cooltv.top/tv/aishang.php?id=sxws
+陕西卫视,http://1.196.83.152:888/hls/49/index.m3u8
 陕西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225531/index.m3u8
 陕西卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225531/index.m3u8
 甘肃卫视,http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225536/index.m3u8
@@ -565,42 +585,62 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 抖音4K50P世界杯场次二,http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
 BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-CCTV4K-25P-HLG源,http://159.75.85.63:8280/cctv4k.php
-CCTV16-4K-SDR源,http://111.29.9.37:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+欢笑剧场4K,http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
+纯享4K,http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+CCTV16-4K-SDR源,http://111.29.9.46:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16-4K-50P-IPV6-HLG源,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-北京IPTV-4K,http://219.142.147.225:9901/tsfile/live/1011_1.m3u8
-咪咕体育-4K-HLG源,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
-咪咕体育-4K-HLG源-2,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育-4K-HLG源-3,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+北京BesTV-4K,http://beifeng.site:4000/udp/239.3.1.249:8001
+4K影视,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+咪咕体育-4K-SDR源,http://120.234.220.107:9000/udp/239.20.0.66:3136
+咪咕体育-4K-HLG源-2,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+Astro Super Sport 4K-1,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+Astro Super Sport 4K-2,http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/348094
+Home 4k,http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=cb776083b1e1b6f9bb2222
+Heritage 4k,http://cdnx1.plusx.tv:8880/Heritage/mono.m3u8?token=cb776083b1e1b6f9bb2222
+V Sports UHD,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
+V Sports UHD备,http://cdn.spmr.tv:8080/hi9w7b/video.m3u8?token=HRUNWEM0Q2
+Now Sports UHD HK,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
+Now Sports UHD HK备,http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
+BeIN Sports 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
+Sky Sport UHD,http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=HRUNWEM0Q2
+TF1 4K,http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
+BT Sport Ultimate 4K,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts
+Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
+Eleven Sports 1 4K,http://cdnx1.plusx.tv:8880/325es4k/mono.m3u8?token=cb776083b1e1b6f9bb2222
+Eleven Sports 1 4K备,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=HRUNWEM0Q2
+Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
+Матч 4k,http://cdn.spmr.tv:8080/w60cdr/video.m3u8?token=HRUNWEM0Q2
+TRT 4k,http://cdnx1.plusx.tv:8880/TRTInternational/mono.m3u8?token=cb776083b1e1b6f9bb2222
+TRT 4k-1,http://toolsworldiptv.org:8080/live/geriHiOeu4sekxxxxx211/geriHiOeu4/365.ts
+TRT 4k-2,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=HRUNWEM0Q2
+DIGI 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
+DIGI 4k备,http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=HRUNWEM0Q2
+Rai 4k,http://saveukraine.only4.tv/8185/video.m3u8?token=y3DBG7q3sk
+Rai 4k备,http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=HRUNWEM0Q2
+C4k360,http://cdnx1.plusx.tv:8880/C4K360/mono.m3u8?token=cb776083b1e1b6f9bb2222
+TVP 4k,http://barebudget.h1ott.com:80/play/live.php?mac=00:1a:79:27:1f:ef&stream=1057230&extension=ts&play_token=FFHcEjJdsM
+TVP 4k-1,http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
+TVP 4k-2,http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=HRUNWEM0Q2
+VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
+TRAVELXP TV 4K,http://cdnx1.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
+NASA 4k 60P,http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
+Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
-CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5-高清(2),http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
-CCTV5-高清(3),http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-五星体育(1),http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育(2),http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-广东体育,http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东体育（备）,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
-南国都市(备),https://justsometime.gztv.com/sec/shenghuos.m3u8
+抖音世界杯随机回放,http://mmmitv.top/test/douyin-x.php?id=rand
+咪咕世界杯4K回放-1,http://111.13.18.208/tptv.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?GuardEncType=2&hwcdnbacksourceflag=223.110.243.171
+咪咕世界杯4K回放-2,http://183.60.255.55/tptv.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?GuardEncType=2&hwcdnbacksourceflag=223.110.236.32
 4K测试源,http://159.75.85.63:5680/d/ad/playad.m3u8
+CCTV-8K-组播AVS3源,http://182.138.154.241:8000/udp/239.93.42.61:5140
 江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-CCTV4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-CCTV16-4K 34M2160HLG,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-SiTV欢笑剧场 12M2160,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
-纯享4K 25M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-纯享4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-纯享4K 30M2160HLG,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-4K修复 7M2160HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-CCTV16-4K50P-HLG,http://129.204.196.171:5678/gudou.php?id=4010
-广东综艺-4K50P-HLG,http://129.204.196.171:5678/gudou.php?id=GDZYHD4K_38000
-CCTV-4K50P-HLG,http://129.204.196.171:5678/gudou.php?id=4005
-广东体育HD,http://129.204.196.171:5678/gudou.php?id=gdsportsHD_7000
-CCTV5HD,http://129.204.196.171:5678/gudou.php?id=CCTV5HD_7000
 
 🇨🇳咪咕频道,#genre#
 咪咕NBA,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225857/index.m3u8?
