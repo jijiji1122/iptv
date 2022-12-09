@@ -453,9 +453,9 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 吉林卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225680/index.m3u8
 吉林卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225553/index.m3u8
 吉林卫视,http://live.cooltv.top/tv/aishang.php?id=jlws
-龙江卫视,http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225690/index.m3u8
-龙江卫视,http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
-龙江卫视,http://live.cooltv.top/tv/aishang.php?id=hljwshd
+黑龙江卫视,http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225690/index.m3u8
+黑龙江卫视,http://[2409:8087:3800:20:1000::806]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
+黑龙江卫视,http://live.cooltv.top/tv/aishang.php?id=hljwshd
 东南卫视,http://live.cooltv.top/tv/aishang.php?id=dnwshd
 东南卫视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225585/index.m3u8
 东南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225657/index.m3u8
@@ -3552,7 +3552,7 @@ CGTN阿语,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227224/in
 百色综合高清,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225900/index.m3u8?
 贺州综合高清,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225847/index.m3u8?
 
-🇨🇳海南,#genre#
+🇨🇳海南综合,#genre#
 海南自贸高清,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 海南新闻高清,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
 海南文旅高清,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
