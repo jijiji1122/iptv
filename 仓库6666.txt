@@ -576,13 +576,15 @@ BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brt
 欢笑剧场4K,http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 纯享4K,http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-CCTV16-4K-SDR源,http://111.29.9.46:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+CCTV16-4K-SDR源,http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16-4K-50P-IPV6-HLG源,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 北京BesTV-4K,http://beifeng.site:4000/udp/239.3.1.249:8001
 4K影视,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 咪咕体育-4K-SDR源,http://120.234.220.107:9000/udp/239.20.0.66:3136
+咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育-4K-HLG源-1,http://117.136.156.68:80/000000001000/3000000010000015686/index.m3u8
 咪咕体育-4K-HLG源-2,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 Astro Super Sport 4K-1,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
