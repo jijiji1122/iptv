@@ -825,7 +825,7 @@ CBA,http://mmmitv.top/test/cba.php
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225852/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225851/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225849/index.m3u8?
-咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225848/index.m3u8?
+咪咕NBA,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225848/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225846/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225845/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225843/index.m3u8?
@@ -847,7 +847,7 @@ CBA,http://mmmitv.top/test/cba.php
 咪咕NBA,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225792/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225789/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225786/index.m3u8?
-咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225783/index.m3u8?
+咪咕NBA,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225783/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225780/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225777/index.m3u8?
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225774/index.m3u8?
