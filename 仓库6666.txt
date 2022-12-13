@@ -380,7 +380,7 @@ CCTV5+,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226745/index.m3u8,
 东方卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226733/index.m3u8,cntv-dongfang
 四川卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226728/index.m3u8,cntv-sichuan
 重庆卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226737/index.m3u8,cntv-chongqing
-🇨🇳辽宁联通组播
+🇨🇳辽宁联通组播,#genre#
 辽宁卫视,rtp://232.0.0.126:1234
 CCTV1,rtp://232.0.0.27:1234
 CCTV2,rtp://232.0.0.135:1234
