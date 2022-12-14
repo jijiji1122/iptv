@@ -114,43 +114,44 @@ http://124.220.17.172/shtv/ybhg.php?id=2236041711
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://124.220.17.172/CCTV/CCTV4K.png" group-title="央视(线路3)",CCTV4K
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8?servicetype=3                                                                       
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路4)",CCTV1
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210101.m3u8
+http://218.29.55.44:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://124.220.17.172/CCTV/CCTV2.png" group-title="央视(线路4)",CCTV2
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203601.m3u8
+http://218.29.55.44:808/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://124.220.17.172/cctv/CCTV3.png" group-title="央视(线路4)",CCTV3
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+http://218.29.55.44:808/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://124.220.17.172/cctv/CCTV4.png" group-title="央视(线路4)",CCTV4
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8
+http://218.29.55.44:808/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://124.220.17.172/CCTV/CCTV5.png" group-title="央视(线路4)",CCTV5
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
+http://218.29.55.44:808/hls/5/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://124.220.17.172/CCTV/CCTV55.png" group-title="央视(线路4)",CCTV5+
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204503.m3u8
+http://[2409:8087:1414:22::110f]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226745/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://124.220.17.172/CCTV/CCTV6.png" group-title="央视(线路4)",CCTV6
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
+http://218.29.55.44:808/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://124.220.17.172/CCTV/CCTV7.png" group-title="央视(线路4)",CCTV7
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
+http://218.29.55.44:808/hls/7/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://124.220.17.172/CCTV/CCTV8.png" group-title="央视(线路4)",CCTV8
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
+http://218.29.55.44:808/hls/8/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://124.220.17.172/CCTV/CCTV9.png" group-title="央视(线路4)",CCTV9
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
+http://218.29.55.44:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://124.220.17.172/CCTV/CCTV10.png" group-title="央视(线路4)",CCTV10
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203902.m3u8
+http://218.29.55.44:808/hls/10/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://124.220.17.172/CCTV/CCTV11.png" group-title="央视(线路4)",CCTV11
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
+http://218.29.55.44:808/hls/11/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://124.220.17.172/CCTV/CCTV12.png" group-title="央视(线路4)",CCTV12
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
+http://218.29.55.44:808/hls/12/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://124.220.17.172/CCTV/CCTV13.png" group-title="央视(线路4)",CCTV13
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
+http://218.29.55.44:808/hls/13/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://124.220.17.172/CCTV/CCTV14.png" group-title="央视(线路4)",CCTV14
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
+http://218.29.55.44:808/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://124.220.17.172/CCTV/CCTV15.png" group-title="央视(线路4)",CCTV15
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
+http://218.29.55.44:808/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172/CCTV/CCTV16.png" group-title="央视(线路4)",CCTV16
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
+http://218.29.55.44:808/hls/16/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://124.220.17.172/CCTV/CCTV17.png" group-title="央视(线路4)",CCTV17
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
+http://218.29.55.44:808/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://124.220.17.172/CCTV/CCTV4K.png" group-title="央视(线路4)",CCTV4K
-http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?
+icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172/cctv/CCTV1.png" group-title="央视(线路5)",CCTV1
 http://124.220.17.172/as.php?id=1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://124.220.17.172/CCTV/CCTV2.png" group-title="央视(线路5)",CCTV2
