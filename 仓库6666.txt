@@ -3323,7 +3323,7 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 航拍陕西,https://epg.pm/stream/03056908cf52ea6406af89e48a1c1395e0e50b1c333fbbe3aaa3e095775872f2.m3u8
 航拍黑龙江,https://epg.pm/stream/dc0f111e36160867b4f5ee645ec8a6c9bf44513ade0e9af3bbbe09b3205b793c.m3u8
 🇨🇳北京综合,#genre#
-BTV文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1671767057&sign=24868f987614012abda33cb7ed0f8ab8
+BTV文艺,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 
 BTV文艺,https://beijing-live4.itouchtv.cn/gehua/btvwenyi.m3u8?auth_key=1671774392-0-0-de0e616ec0e6659f0c9292fd26140aed
 
@@ -3331,31 +3331,30 @@ BTV科教,http://124.220.17.172/bjsj12.php?id=btvkj
 
 BTV科教,http://124.236.18.251/yfsl.vsd.gehua.net.cn/live/BTVKeJiaoHD_6000.m3u8
 
-BTV影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1671767237&sign=aca5dfa29c871f3b4bb08760c487345a
+BTV影视,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
 
 BTV影视,https://beijing-live4.itouchtv.cn/gehua/btv4.m3u8?auth_key=1671774217-0-0-58cc5c3ca297a49f2e82ba163ea206b1
 
-BTV财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1671767279&sign=b590bbc3c1b5531b38aadf299e240286
-
+BTV财经,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV财经,https://beijing-live4.itouchtv.cn/gehua/btv5.m3u8?auth_key=1671774496-0-0-4dff6f6b4169e4060f9c53ed6f305ce8
 
 BTV体育,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=1671767355&sign=bd298f2079f02df1f5d20f1752085dfd
 
 BTV体育,https://beijing-live4.itouchtv.cn/gehua/btvjishi.m3u8?auth_key=1671774571-0-0-bb558f37aa4e6c3156dbbbeb9183e08c
 
-BTV生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1671767317&sign=32a92f7ac9641aca3de647cb11415b0c
+BTV生活,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 
 BTV生活,https://beijing-live4.itouchtv.cn/gehua/btv7.m3u8?auth_key=1671774532-0-0-3b144a1a168733229f31cd96422046d8
 
-BTV青年,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=1671767396&sign=2fe97e9c098f1ad948a7f0c1e8feb6f5
+BTV青年,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
 
 BTV青年,https://beijing-live4.itouchtv.cn/gehua/btv8.m3u8?auth_key=1671774611-0-0-4ea3b8f2144012e00e5aa6a84b4044a9
 
-BTV新闻,https://beijing-live4.itouchtv.cn/gehua/btv9.m3u8?auth_key=1671774391-0-0-c13e892b2c78a6c3b24f9d03a805a640
+BTV新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1672140386&sign=ca23ad7f83a50fede00af89c665a9ea9
 
 BTV新闻,https://live.funhillrm.com/5/sd/live.m3u8
 
-BTV卡酷少儿,https://beijing-live4.itouchtv.cn/gehua/btv10.m3u8?auth_key=1671774683-0-0-0ec42aba91ffe421fc01e2aa42bb5ec0
+BTV卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1672140369&sign=acfbedbeabe8ae51eb432d7ad4b467a7
 
 🇨🇳上海综合,#genre#
 第一财经,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
@@ -4195,19 +4194,6 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 岱岳综合,http://slvedio.slradio.cn/a935908a217711ea8bb000163e0e6522/4D6357B92240C088F3612E43E44B5F1D.m3u8?shadd
 
 🇨🇳广东综合,#genre#
-广东综艺,http://124.220.17.172/gdcd.php?id=gdzy
-广东新闻,http://124.220.17.172/gdcd.php?id=gdxw
-广东影视,http://124.220.17.172/gdcd.php?id=gdys
-广东公共,http://124.220.17.172/gdcd.php?id=gdgg
-广东珠江,http://124.220.17.172/gdcd.php?id=gdzj
-大湾区卫视,http://124.220.17.172/gdcd.php?id=nfws
-广东体育1,http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东体育2,http://121.51.249.89/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东体育3,http://121.51.249.92/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东体育4,http://121.51.249.94/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
-广州新闻,https://tv.cry33.com/gztv.php?id=gzxw
-南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 广东珠江,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdzj
 广东体育,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdty
 广东经济科教,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdjjkj
