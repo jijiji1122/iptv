@@ -4506,6 +4506,16 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 广州新闻,http://iptv.cooltv.top/tv/guangzhou.php?id=gzxw 
 广州竞赛,http://iptv.cooltv.top/tv/guangzhou.php?id=gzjs 
 广州南国都市,http://iptv.cooltv.top/tv/guangzhou.php?id=gzsh
+深圳都市,http://iptv.cooltv.top/tv/sztv.php?id=szds 
+深圳电视剧,http://iptv.cooltv.top/tv/sztv.php?id=szdsj 
+深圳公共,http://iptv.cooltv.top/tv/sztv.php?id=szgg 
+深圳财经生活,http://iptv.cooltv.top/tv/sztv.php?id=szcjsh
+深圳娱乐,http://iptv.cooltv.top/tv/sztv.php?id=szyl
+深圳少儿,http://iptv.cooltv.top/tv/sztv.php?id=szse 
+深圳移动电视,http://iptv.cooltv.top/tv/sztv.php?id=szyd 
+深圳体育健康,http://iptv.cooltv.top/tv/sztv.php?id=sztyjk
+深圳国际,http://iptv.cooltv.top/tv/sztv.php?id=szgj 
+深圳DV生活,http://iptv.cooltv.top/tv/sztv.php?id=szdvsh
 深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
 深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
 深圳众创,https://lglivepull.sznews.com/live/2645.m3u8
