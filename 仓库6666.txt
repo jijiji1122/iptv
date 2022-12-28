@@ -384,6 +384,13 @@ CCTV10,http://219.151.137.143/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/
 辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
 辽宁经济,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8
 辽宁公共,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8
+大连新闻综合,http://iptv.cooltv.top/tv/cutv.php?id=dlxwzh
+大连生活,http://iptv.cooltv.top/tv/cutv.php?id=dlsh 
+大连公共,http://iptv.cooltv.top/tv/cutv.php?id=dlgg 
+大连文体,http://iptv.cooltv.top/tv/cutv.php?id=dlwt 
+大连综合影视,http://iptv.cooltv.top/tv/cutv.php?id=dlzhys 
+大连少儿,http://iptv.cooltv.top/tv/cutv.php?id=dlse 
+大连财经,http://iptv.cooltv.top/tv/cutv.php?id=dlcj 
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226721/index.m3u8,cntv-cctv1
 CCTV2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226711/index.m3u8,cntv-cctv2
 CCTV3,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226861/index.m3u8,cntv-cctv3
@@ -3622,7 +3629,7 @@ BTV影视,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m
 BTV影视,http://live.cooltv.top/tv/btime.php?id=btvys
 BTV财经,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV财经,http://live.cooltv.top/tv/btime.php?id=btvcj
-BTV体育,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=1672192103&sign=7410d476c1c95b735cb17740472e1bf7
+BTV体育,http://iptv.cooltv.top/tv/btime.php?id=bjjs 
 BTV体育,http://live.cooltv.top/tv/btime.php?id=btvty
 BTV生活,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 BTV生活,http://live.cooltv.top/tv/btime.php?id=btvsh
@@ -3910,8 +3917,6 @@ CGTN阿语,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227224/in
 🇨🇳河南移动,#genre#
 河南IPTV导视,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8
 河南IPTV导视,http://[2409:8087:4402:20:1:1216:401:17]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226665/index.m3u8
-江西陶瓷,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-江西陶瓷,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226355/index.m3u8
 求索动物,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 求索生活,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 求索科学,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
@@ -4187,6 +4192,13 @@ IPTV芒果乐淘,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 兰州新闻综合,https://stream.lztv.tv/xwzh/playlist.m3u8?_upt=16d1e7321672199596
 🇨🇳湖北综合,#genre#
 湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+湖北综合,http://iptv.cooltv.top/tv/cjy.php?id=hbzh 
+湖北公共新闻,http://iptv.cooltv.top/tv/cjy.php?id=hbgg 
+湖北经视,http://iptv.cooltv.top/tv/cjy.php?id=hbjs 
+湖北教育,http://iptv.cooltv.top/tv/cjy.php?id=hbjy
+湖北垄上,http://iptv.cooltv.top/tv/cjy.php?id=hbls 
+湖北生活,http://iptv.cooltv.top/tv/cjy.php?id=hbsh 
+湖北影视,http://iptv.cooltv.top/tv/cjy.php?id=hbys
 武汉综合,http://222.85.26.239/stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉新闻综合,http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8
 武汉经济,http://222.85.26.239/stream.appwuhan.com/4tzb/sd/live.m3u8
@@ -4392,6 +4404,12 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
 数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8?zzhed
+杭州综合,http://iptv.cooltv.top/tv/hz.php?id=16 
+杭州明珠,http://117.148.179.135/PLTV/88888888/224/3221229310/index.m3u8 
+杭州生活,http://117.148.179.134/PLTV/88888888/224/3221229313/index.m3u8 
+杭州影视,http://iptv.cooltv.top/tv/hz.php?id=21 
+杭州青少体育,http://iptv.cooltv.top/tv/hz.php?id=20 
+杭州导视,http://iptv.cooltv.top/tv/hz.php?id=22 
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
@@ -4482,16 +4500,12 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 广东国际,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdxw
 广东移动,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdyd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-广州南国都市,http://9.zhxinda.xyz/gz.php?id=shenghuo
-广州南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
-广州综合,http://9.zhxinda.xyz/gz.php?id=zhonghe
-广州法治,http://9.zhxinda.xyz/gz.php?id=fazhi
-广州新闻,http://9.zhxinda.xyz/gz.php?id=xinwen
-广州影视,http://9.zhxinda.xyz/gz.php?id=yingshi
-广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
-广州法治,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz
-广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
-广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
+广州综合,http://iptv.cooltv.top/tv/guangzhou.php?id=gzzh 
+广州法治,http://iptv.cooltv.top/tv/guangzhou.php?id=gzfz 
+广州影视,http://iptv.cooltv.top/tv/guangzhou.php?id=gzys 
+广州新闻,http://iptv.cooltv.top/tv/guangzhou.php?id=gzxw 
+广州竞赛,http://iptv.cooltv.top/tv/guangzhou.php?id=gzjs 
+广州南国都市,http://iptv.cooltv.top/tv/guangzhou.php?id=gzsh
 深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
 深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
 深圳众创,https://lglivepull.sznews.com/live/2645.m3u8
@@ -4527,6 +4541,13 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 🇨🇳四川综合,#genre#
 四川卫视,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=scws
 四川卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295002.m3u8
+四川新闻,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8
+四川经济,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv28f9fb5888dedbe0c6a1b/1.m3u8
+四川文化旅游,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv38f9fb5888dedbe0c6a1b/1.m3u8
+四川影视文艺 ,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv58f9fb5888dedbe0c6a1b/1.m3u8 
+四川妇女儿童 ,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv78f9fb5888dedbe0c6a1b/1.m3u8 
+四川乡村 ,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv98f9fb5888dedbe0c6a1b/1.m3u8 
+四川星空购物 ,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv68f9fb5888dedbe0c6a1b/1.m3u8
 四川科教,http://3017ugjo.live2.danghongyun.com:80/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8
 锦阳综合,http://live.sctvcloud.com/live/mytvzh/playlist.m3u8
 锦阳公共,http://live.sctvcloud.com/live/mytvgg/playlist.m3u8
@@ -4640,6 +4661,12 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 安徽国际,http://121.51.249.45/live5.ahtv.cn/ahgj1/hd/live.m3u8
 晴彩安徽,http://121.51.249.45/live5.ahtv.cn/jcah1/hd/live.m3u8
 安徽导视,http://agsj.appcoo.com:8000/agsj/test/index.m3u8
+合肥新闻,http://iptv.cooltv.top/tv/hfcatv.php?id=185 
+合肥生活,http://iptv.cooltv.top/tv/hfcatv.php?id=188 
+合肥财经,http://iptv.cooltv.top/tv/hfcatv.php?id=190 
+合肥教育法制,http://iptv.cooltv.top/tv/hfcatv.php?id=189 
+合肥故事休闲,http://iptv.cooltv.top/tv/hfcatv.php?id=191 
+合肥公共,http://iptv.cooltv.top/tv/hfcatv.php?id=025
 池州综合,http://lu1.cc/c/tv/sjtv/ah/cztv.php?id=czxwzh
 池州综合,http://cm.wshls.homecdn.com/live/4abdd.flv
 池州公共,http://lu1.cc/c/tv/sjtv/ah/cztv.php?id=czgg
@@ -4762,6 +4789,17 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 延边综合,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
 辽源综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 🇨🇳山西综合,#genre#
+山西社会与法治,http://iptv.cooltv.top/tv/cutv.php?id=sxkj 
+黄河电视台,http://iptv.cooltv.top/tv/cutv.php?id=sxhh 
+山西经济与科技,http://iptv.cooltv.top/tv/cutv.php?id=sxjj 
+山西影视,http://iptv.cooltv.top/tv/cutv.php?id=sxys 
+山西文体生活,http://iptv.cooltv.top/tv/cutv.php?id=sxgg
+太原教育台,http://iptv.cooltv.top/tv/cutv.php?id=tyjypd 
+太原新闻综合,http://iptv.cooltv.top/tv/cutv.php?id=tyxwzh
+太原经济生活,http://iptv.cooltv.top/tv/cutv.php?id=tyjjsh
+太原社教法制,http://iptv.cooltv.top/tv/cutv.php?id=tysjfz 
+太原影视,http://iptv.cooltv.top/tv/cutv.php?id=tyys 
+太原文体,http://iptv.cooltv.top/tv/cutv.php?id=tywt
 大宁综合,http://live.daningtv.com/channel1/sd/live.m3u8?zshanxd
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
