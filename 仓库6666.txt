@@ -1307,10 +1307,10 @@ TVB 财经,http://120.84.96.78:808/hls/86/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 东森综合 HD,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 东森综合ETTVMetro,http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
-东森洋片,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+东森洋片,http://120.84.96.71:808/hls/33/index.m3u8
 东森新闻,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 东森戏剧,http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
-东森电影ETTVMovie,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+东森电影ETTVMovie,http://120.84.96.96:808/hls/32/index.m3u8
 东森超视,http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
 翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 华丽台,http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
@@ -2315,6 +2315,28 @@ KPL职业联赛,https://epg.112114.xyz/huya/660002
 
 
 🇨🇳百事通,#genre#
+百视独播,http://tvmvip110.club/bs.php?id=124
+百视独播2,http://tvmvip110.club/bs.php?id=126
+百视独播3,http://tvmvip110.club/bs.php?id=128
+百视独播4,http://tvmvip110.club/bs.php?id=247
+百视独播5,http://tvmvip110.club/bs.php?id=144
+百视自制,http://tvmvip110.club/bs.php?id=213
+百视自制2,http://tvmvip110.club/bs.php?id=216
+百视直播,http://tvmvip110.club/bs.php?id=146
+百视TV1,http://tvmvip110.club/bs.php?id=27
+百视TV2,http://tvmvip110.club/bs.php?id=33
+百视TV3,http://tvmvip110.club/bs.php?id=41
+百视TV4,http://tvmvip110.club/bs.php?id=52
+百视TV5,http://tvmvip110.club/bs.php?id=59
+百视TV6,http://tvmvip110.club/bs.php?id=76
+百视TV7,http://tvmvip110.club/bs.php?id=96
+百视TV8,http://tvmvip110.club/bs.php?id=186
+百视TV9,http://tvmvip110.club/bs.php?id=193
+百视TV10,http://tvmvip110.club/bs.php?id=201
+百视TV11,http://tvmvip110.club/bs.php?id=218
+百视TV12,http://tvmvip110.club/bs.php?id=229
+百视TV13,http://tvmvip110.club/bs.php?id=228
+百视TV14,http://tvmvip110.club/bs.php?id=246
 百视通剧集1,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8?servicetype=3
 百视通剧集2,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8?servicetype=3
 百视通剧集3,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8?servicetype=3
@@ -3762,7 +3784,10 @@ BTV影视,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m
 BTV影视,http://live.cooltv.top/tv/btime.php?id=btvys
 BTV财经,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV财经,http://live.cooltv.top/tv/btime.php?id=btvcj
-BTV体育,http://iptv.cooltv.top/tv/btime.php?id=bjjs 
+BTV体育,http://yfsl.vsd.gehua.net.cn/live/ipcdn,BTVDongAoJiShi_800K_live.m3u8
+BTV体育,http://yfsl.vsd.gehua.net.cn/live/BTVjishiHD_1200.m3u8
+BTV体育,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=1672541449&sign=dbd0def0539909209c12e07231ee1bb9
+BTV体育,https://beijing-live4.itouchtv.cn/gehua/btvjishi.m3u8?auth_key=1672548511-0-0-836dfb6400f8b405a1d09d5f2fe2ca71
 BTV体育,http://live.cooltv.top/tv/btime.php?id=btvty
 BTV生活,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 BTV生活,http://live.cooltv.top/tv/btime.php?id=btvsh
@@ -3770,12 +3795,11 @@ BTV青年,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.
 BTV青年,hhttp://live.cooltv.top/tv/btime.php?id=btvqn
 BTV新闻,http://live.cooltv.top/tv/btime.php?id=btvxw
 BTV新闻,https://live.funhillrm.com/5/sd/live.m3u8
-北京影视,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
-北京文艺,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
-北京新闻,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
-北京生活,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
-北京财经,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
-北京青年,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
+BTV影视,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
+BTV文艺,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
+BTV新闻,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
+BTV生活,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
+BTV财经,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV卡酷少儿,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225677/2/index.m3u8
 
 🇨🇳上海综合,#genre#
