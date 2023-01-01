@@ -3500,11 +3500,10 @@ BTV影视,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m
 BTV影视,http://live.cooltv.top/tv/btime.php?id=btvys
 BTV财经,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV财经,http://live.cooltv.top/tv/btime.php?id=btvcj
-BTV体育,http://yfsl.vsd.gehua.net.cn/live/ipcdn,BTVDongAoJiShi_800K_live.m3u8
-BTV体育,http://yfsl.vsd.gehua.net.cn/live/BTVjishiHD_1200.m3u8
+BTV体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+BTV体育,http://iptv.cooltv.top/tv/btime.php?id=bjjs
 BTV体育,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=1672541449&sign=dbd0def0539909209c12e07231ee1bb9
 BTV体育,https://beijing-live4.itouchtv.cn/gehua/btvjishi.m3u8?auth_key=1672548511-0-0-836dfb6400f8b405a1d09d5f2fe2ca71
-BTV体育,http://live.cooltv.top/tv/btime.php?id=btvty
 BTV生活,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 BTV生活,http://live.cooltv.top/tv/btime.php?id=btvsh
 BTV青年,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
