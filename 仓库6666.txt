@@ -3,7 +3,6 @@ CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225618/in
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1,http://183.230.71.169/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210101.m3u8
 CCTV1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225734/index.m3u8
-CCTV1,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210101.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv1/index.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?blog.ntnas.top
@@ -16,7 +15,6 @@ CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u
 CCTV2,http://hls.yun.gehua.net.cn:8088/live/CCTV2HD_1200.m3u8
 CCTV2,http://183.230.71.169/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203601.m3u8
 CCTV2,http://[2409:8087:1414:22::1102]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227304/index.m3u8
-CCTV2,http://220.194.122.56/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV2,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000297/index.m3u8?blog.ntnas.top
 CCTV2,http://218.29.55.44:808/hls/2/index.m3u8
 CCTV2,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv2/index.m3u8
@@ -25,7 +23,6 @@ CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u
 CCTV3,http://183.230.71.169/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
-CCTV3,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
 CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
 CCTV3,http://218.29.55.44:808/hls/3/index.m3u8
 CCTV3,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000088/index.m3u8?blog.ntnas.top
@@ -35,7 +32,6 @@ CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u
 CCTV4,http://183.230.71.169/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 CCTV4,http://hls.yun.gehua.net.cn:8088/live/CCTV4HD_1200.m3u8
-CCTV4,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
 CCTV4,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000485/index.m3u8?blog.ntnas.top
 CCTV4,http://218.29.55.44:808/hls/4/index.m3u8
 CCTV4,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225797/index.m3u8
@@ -74,7 +70,6 @@ CCTV7,http://hls.yun.gehua.net.cn:8088/live/CCTV7HD_1200.m3u8
 CCTV7,http://183.230.71.169/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
 CCTV7,http://[2409:8087:1414:22::1006]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226175/index.m3u8
 CCTV7,http://[2409:8087:1414:22::1122]:80/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226175/index.m3u8
-CCTV7,http://220.194.122.56/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510002.m3u8
 CCTV7,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000299/index.m3u8?blog.ntnas.top
 CCTV7,http://218.29.55.44:808/hls/7/index.m3u8
 CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
@@ -100,7 +95,6 @@ CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd2
 CCTV9,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226734/index.m3u8
 CCTV10,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225627/index.m3u8
 CCTV10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
-CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221227317/index.m3u8
 CCTV10,http://183.230.71.169/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203902.m3u8
 CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV10,http://hls.yun.gehua.net.cn:8088/live/CCTV10HD_1200.m3u8
@@ -188,6 +182,18 @@ CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8?servicetype=3
 CCTV4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+CCTV1,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV2,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV3,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV5+,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204503.m3u8
+CCTV6,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV7,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
+CCTV8,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV11,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
+CCTV12,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV13,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV14,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
+CCTV4K,http://220.194.122.56/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
 CCTV1,http://219.142.151.252:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://219.142.151.252:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://219.142.151.252:9901/tsfile/live/0003_1.m3u8
@@ -364,6 +370,19 @@ CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 CCTV16,http://124.220.17.172:1100/aas.php?id=16
 CCTV17,http://wabc.ml/sxg.php?id=CCTV-17_4000
 CCTV17,http://124.220.17.172:1100/aas.php?id=17
+央视台球,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+第一剧场,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+风云剧场,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+怀旧剧场,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+世界地理,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+风云音乐,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+兵器科技,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+风云足球,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+高尔夫网球,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+女性时尚,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+文化精品,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+电视指南,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+卫生健康,http://183.230.71.169/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
