@@ -1233,9 +1233,12 @@ CBA,http://mmmitv.top/test/cba.php?type=2
 凤凰香港,http://120.84.96.78:808/hls/81/index.m3u8
 台视,http://23.237.10.66:16344
 台视,http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
+台视新闻,http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+台视新闻,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -1246,6 +1249,9 @@ CBA,http://mmmitv.top/test/cba.php?type=2
 民视,http://23.237.10.66:16334
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=1
+民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视台湾台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 民视第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
 民视综艺台,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
@@ -1260,6 +1266,13 @@ CBA,http://mmmitv.top/test/cba.php?type=2
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 中视青采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 中视经典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
+中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
+中天新闻,http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+镜新闻Mnews,http://tv.redrainl.site:9500/live.m3u8?c=28
+镜新闻Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
+民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=1
+民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
 中视,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中视,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
@@ -1270,6 +1283,8 @@ CBA,http://mmmitv.top/test/cba.php?type=2
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+寰宇新闻,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+寰宇新闻,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 东森洋片,http://120.84.96.78:808/hls/33/index.m3u8
 智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
@@ -2468,18 +2483,67 @@ SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 龙祥时代,http://120.84.96.85:808/hls/35/index.m3u8
 天映经典,http://120.84.96.85:808/hls/85/index.m3u8
 美亚电影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
-HBO原创,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+HBO原创,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 欧美电影,http://111.11.123.33:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 亚洲电影,http://111.11.123.33:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 纬来电影,https://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
 HBO HD,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 HBO温馨家庭,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 HBO强档,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
+HBO PREMIUM,https://s.vdo.ai/vhs/1.m3u8
+HOT HBO HD (Израиль),http://myott.tv/stream/S8JK2Q2BVB/381.m3u8
+HBO Plus HD,http://190.83.119.67:8000/play/a0ot/index.m3u8
+HBO XTREME,http://190.83.119.67:8000/play/a0ov/index.m3u8
+Amedia Home Of HBO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19218/index.m3u8
+VF HBO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19428/index.m3u8
+HBO HD RO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6986/index.m3u8
+HBO 3 HD RO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6987/index.m3u8
+HBO 2 HD RO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/7005/index.m3u8
+HBO 3 RO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/7013/index.m3u8
+HBO RO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/7014/index.m3u8
+HBO 2 RO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/7029/index.m3u8
+HBO HD,http://190.83.119.67:8000/play/a0or/index.m3u8
+HBO2 HD,http://190.83.119.67:8000/play/a0os/index.m3u8
+Hot HBO HD IL,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2354/index.m3u8
+HBO BR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19046/index.m3u8
+HBO2 BR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19045/index.m3u8
+HBO MUNDI BR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19047/index.m3u8
+HBO POP BR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19049/index.m3u8
+HBO+ BR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19048/index.m3u8
+HBO SIGNATURE BR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19050/index.m3u8
+星街电影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星街电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+CATCHPLAY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+CATCHPLAY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
 影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+莲花电影,http://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
 好莱坞电影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 高清电影台,https://pull-l3-cny.douyincdn.com/live/8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
 龙祥电影台,https://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
 天映电影台,https://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
+靖天电影,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
+CINEMAX,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
+票房电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+印度电影,http://23.237.10.66:16054
+每日影院,http://182.151.211.171:808/hls/128/index.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+长城精品,http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
+峨嵋电影,http://182.151.211.171:808/hls/58/index.m3u8
+MYTV电影台 1,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19407/index.m3u8
+MYTV电影台 2,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19408/index.m3u8
+MYTV电影台 Kids,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19409/index.m3u8
+MYTV电影台 Hit,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19410/index.m3u8
+MYTV电影台 3,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19411/index.m3u8
+FRESH电影 Soviet,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19301/index.m3u8
+FRESH电影 Thriller,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19300/index.m3u8
+FRESH电影 Russian,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19299/index.m3u8
+动作电影,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18050/index.m3u8
+KINOSHKA Thriller,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18055/index.m3u8
+START AIR  电影台,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18036/index.m3u8
+START WORLD电影台,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18032/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
