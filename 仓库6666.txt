@@ -2525,25 +2525,6 @@ HBO原创,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5d
 HBO HD,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 HBO温馨家庭,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 HBO强档,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
-HBO Plus HD,http://190.83.119.67:8000/play/a0ot/index.m3u8
-HBO XTREME,http://190.83.119.67:8000/play/a0ov/index.m3u8
-Amedia Home Of HBO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19218/index.m3u8
-VF HBO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19428/index.m3u8
-HBO HD RO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6986/index.m3u8
-HBO 3 HD RO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6987/index.m3u8
-HBO 2 HD RO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/7005/index.m3u8
-HBO 3 RO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/7013/index.m3u8
-HBO RO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/7014/index.m3u8
-HBO 2 RO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/7029/index.m3u8
-HBO HD,http://190.83.119.67:8000/play/a0or/index.m3u8
-HBO2 HD,http://190.83.119.67:8000/play/a0os/index.m3u8
-Hot HBO HD IL,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2354/index.m3u8
-HBO BR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19046/index.m3u8
-HBO2 BR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19045/index.m3u8
-HBO MUNDI BR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19047/index.m3u8
-HBO POP BR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19049/index.m3u8
-HBO+ BR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19048/index.m3u8
-HBO SIGNATURE BR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19050/index.m3u8
 星街电影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 星街电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 CATCHPLAY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
