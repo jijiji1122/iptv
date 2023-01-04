@@ -1328,6 +1328,11 @@ CBA,http://mmmitv.top/test/cba.php?type=2
 智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 纬来体育,http://123.51.230.108:18509/.m3u8
 翡翠台 ,http://23.237.10.66:16106
+翡翠台,http://120.84.96.89:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.96:808/hls/25/index.m3u8
+星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.96:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.108:808/hls/79/index.m3u8
 TVBS新闻台 ,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
@@ -2520,8 +2525,6 @@ HBO原创,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5d
 HBO HD,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 HBO温馨家庭,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 HBO强档,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
-HBO PREMIUM,https://s.vdo.ai/vhs/1.m3u8
-HOT HBO HD (Израиль),http://myott.tv/stream/S8JK2Q2BVB/381.m3u8
 HBO Plus HD,http://190.83.119.67:8000/play/a0ot/index.m3u8
 HBO XTREME,http://190.83.119.67:8000/play/a0ov/index.m3u8
 Amedia Home Of HBO,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19218/index.m3u8
@@ -2562,18 +2565,6 @@ CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC16145198161451
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 长城精品,http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
 峨嵋电影,http://182.151.211.171:808/hls/58/index.m3u8
-MYTV电影台 1,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19407/index.m3u8
-MYTV电影台 2,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19408/index.m3u8
-MYTV电影台 Kids,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19409/index.m3u8
-MYTV电影台 Hit,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19410/index.m3u8
-MYTV电影台 3,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19411/index.m3u8
-FRESH电影 Soviet,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19301/index.m3u8
-FRESH电影 Thriller,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19300/index.m3u8
-FRESH电影 Russian,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19299/index.m3u8
-动作电影,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18050/index.m3u8
-KINOSHKA Thriller,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18055/index.m3u8
-START AIR  电影台,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18036/index.m3u8
-START WORLD电影台,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18032/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -3852,6 +3843,54 @@ CGTN阿语,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227224/in
 玉林新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225838/index.m3u8?
 百色综合,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225900/index.m3u8?
 贺州综合,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225847/index.m3u8?
+广西卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294203.m3u8
+南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+南宁影娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+北海新闻综合,https://cdn.gdlive.gdmain.com/live/lg36zk25.m3u8
+北海新闻综合,http://njgdmm-wshls.homecdn.com/live/4e8a2.m3u8
+北海经济科教,https://cdn.gdlive.gdmain.com/live/lnyxz495.m3u8
+钦州综合,http://stream.gxqzxw.com/qztv/zhhd/live.m3u8
+钦州公共,http://stream.gxqzxw.com/qztv02/gghd/live.m3u8
+贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+崇左综合,https://cdn.gdlive.gdmain.com/live/lxzydpo5.m3u8
+来宾综合,https://cdn.gdlive.gdmain.com/live/0myxra90.m3u8
+河池综合,http://p8.vzan.com/1164867412/359993088373325312/live.m3u8
+河池教育,http://p8.vzan.com/1164867412/672424628602851877/live.m3u8
+灌阳新闻综合,https://cdn.gdlive.gdmain.com/live/02kzyoy0.m3u8
+灵川综合,https://cdn.gdlive.gdmain.com/live/lbzx2a8l.m3u8
+资源电视台,https://cdn.gdlive.gdmain.com/live/09oz9ba0.m3u8
+宾阳综合,https://cdn.gdlive.gdmain.com/live/5zzby3v5.m3u8
+宾阳综合,https://live-cdn.gxxw.com/gx/binyang/index.m3u8
+隆安新闻综合,http://hls.nntv.cn/nnlive/LATV_A.m3u8
+马山新闻综合,http://hls.nntv.cn/nnlive/MSTV_A.m3u8
+上林电视台,http://hls.nntv.cn/nnlive/SLTV_A.m3u8
+龙州综合,https://cdn.gdlive.gdmain.com/live/5pyxdeb5.m3u8
+龙州综合,https://live-cdn.gxxw.com/gx/longzhou/index.m3u8
+凭祥综合,https://cdn.gdlive.gdmain.com/live/0myxr890.m3u8
+凭祥综合,https://live-cdn.gxxw.com/gx/pingxiang/index.m3u8
+天等综合,https://cdn.gdlive.gdmain.com/live/51g1ap75.m3u8
+巴马综合,https://cdn.gdlive.gdmain.com/live/5ky6zx60.m3u8
+博白综合,http://live-cdn.gxxw.com/hls/a22/index.m3u8
+博白综合,https://live-cdn.gxxw.com/hls/a22/index.m3u8
+岑溪综合,https://cdn.gdlive.gdmain.com/live/02kzy3y0.m3u8
+融水综合,https://cdn.gdlive.gdmain.com/live/lnyxza95.m3u8
+融水综合,https://live-cdn.gxxw.com/gx/rongshui/index.m3u8
+都安综合,https://cdn.gdlive.gdmain.com/live/lo2xza25.m3u8
+都安综合,https://live-cdn.gxxw.com/gx/duan/index.m3u8
+罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8
+昭平综合,https://cdn.gdlive.gdmain.com/live/53xzyvv5.m3u8
+昭平综合,https://live-cdn.gxxw.com/gx/zhaoping/index.m3u8
+靖西综合,https://cdn.gdlive.gdmain.com/live/53xzybv5.m3u8
+乐业综合,https://cdn.gdlive.gdmain.com/live/lg36za25.m3u8
+乐业综合,https://live-cdn.gxxw.com/gx/leye/index.m3u8
+那坡综合,https://cdn.gdlive.gdmain.com/live/l7bxg260.m3u8
+田东综合,https://cdn.gdlive.gdmain.com/live/5aj79zp5.m3u8
+田东综合,https://live-cdn.gxxw.com/gx/tiandong/index.m3u8
+田阳综合,https://cdn.gdlive.gdmain.com/live/0yzvdpr5.m3u8
+西林综合,https://cdn.gdlive.gdmain.com/live/lj16xrkl.m3u8
+
 
 🇨🇳海南综合,#genre#
 海南自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
@@ -4285,53 +4324,6 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 酋阳综合,http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8
 忠县综合,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
-广西卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294203.m3u8
-南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-南宁影娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
-北海新闻综合,https://cdn.gdlive.gdmain.com/live/lg36zk25.m3u8
-北海新闻综合,http://njgdmm-wshls.homecdn.com/live/4e8a2.m3u8
-北海经济科教,https://cdn.gdlive.gdmain.com/live/lnyxz495.m3u8
-钦州综合,http://stream.gxqzxw.com/qztv/zhhd/live.m3u8
-钦州公共,http://stream.gxqzxw.com/qztv02/gghd/live.m3u8
-贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-崇左综合,https://cdn.gdlive.gdmain.com/live/lxzydpo5.m3u8
-来宾综合,https://cdn.gdlive.gdmain.com/live/0myxra90.m3u8
-河池综合,http://p8.vzan.com/1164867412/359993088373325312/live.m3u8
-河池教育,http://p8.vzan.com/1164867412/672424628602851877/live.m3u8
-灌阳新闻综合,https://cdn.gdlive.gdmain.com/live/02kzyoy0.m3u8
-灵川综合,https://cdn.gdlive.gdmain.com/live/lbzx2a8l.m3u8
-资源电视台,https://cdn.gdlive.gdmain.com/live/09oz9ba0.m3u8
-宾阳综合,https://cdn.gdlive.gdmain.com/live/5zzby3v5.m3u8
-宾阳综合,https://live-cdn.gxxw.com/gx/binyang/index.m3u8
-隆安新闻综合,http://hls.nntv.cn/nnlive/LATV_A.m3u8
-马山新闻综合,http://hls.nntv.cn/nnlive/MSTV_A.m3u8
-上林电视台,http://hls.nntv.cn/nnlive/SLTV_A.m3u8
-龙州综合,https://cdn.gdlive.gdmain.com/live/5pyxdeb5.m3u8
-龙州综合,https://live-cdn.gxxw.com/gx/longzhou/index.m3u8
-凭祥综合,https://cdn.gdlive.gdmain.com/live/0myxr890.m3u8
-凭祥综合,https://live-cdn.gxxw.com/gx/pingxiang/index.m3u8
-天等综合,https://cdn.gdlive.gdmain.com/live/51g1ap75.m3u8
-巴马综合,https://cdn.gdlive.gdmain.com/live/5ky6zx60.m3u8
-博白综合,http://live-cdn.gxxw.com/hls/a22/index.m3u8
-博白综合,https://live-cdn.gxxw.com/hls/a22/index.m3u8
-岑溪综合,https://cdn.gdlive.gdmain.com/live/02kzy3y0.m3u8
-融水综合,https://cdn.gdlive.gdmain.com/live/lnyxza95.m3u8
-融水综合,https://live-cdn.gxxw.com/gx/rongshui/index.m3u8
-都安综合,https://cdn.gdlive.gdmain.com/live/lo2xza25.m3u8
-都安综合,https://live-cdn.gxxw.com/gx/duan/index.m3u8
-罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8
-昭平综合,https://cdn.gdlive.gdmain.com/live/53xzyvv5.m3u8
-昭平综合,https://live-cdn.gxxw.com/gx/zhaoping/index.m3u8
-靖西综合,https://cdn.gdlive.gdmain.com/live/53xzybv5.m3u8
-乐业综合,https://cdn.gdlive.gdmain.com/live/lg36za25.m3u8
-乐业综合,https://live-cdn.gxxw.com/gx/leye/index.m3u8
-那坡综合,https://cdn.gdlive.gdmain.com/live/l7bxg260.m3u8
-田东综合,https://cdn.gdlive.gdmain.com/live/5aj79zp5.m3u8
-田东综合,https://live-cdn.gxxw.com/gx/tiandong/index.m3u8
-田阳综合,https://cdn.gdlive.gdmain.com/live/0yzvdpr5.m3u8
-西林综合,https://cdn.gdlive.gdmain.com/live/lj16xrkl.m3u8
 
 🇨🇳浙江综合,#genre#
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
