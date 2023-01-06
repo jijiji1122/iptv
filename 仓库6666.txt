@@ -2662,6 +2662,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 淘电影,http://219.142.151.252:9901/tsfile/live/1010_1.m3u8
+北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 华语经典,http://epg.112114.xyz/douyu/434971
 吃米滴虫,http://epg.112114.xyz/douyu/315457
 神乐影片1,http://epg.112114.xyz/douyu/122402
@@ -3673,6 +3674,8 @@ BTV新闻,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwe
 BTV生活,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 BTV财经,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV卡酷少儿,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225677/2/index.m3u8
+北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+北京淘电影,http://219.142.151.252:9901/tsfile/live/1010_1.m3u8
 
 🇨🇳上海综合,#genre#
 第一财经,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
@@ -4483,13 +4486,25 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 🇨🇳山东综合,#genre#
-山东卫视,http://222.175.159.226:808/hls/19/index.m3u8$超清1080P
-山东卫视,http://39.134.67.110/PLTV/88888888/224/3221225952/index.m3u8$超清1080P
-山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8$超清1080P
-山东卫视,https://lives.jnnews.tv/video/s10001-SDTV/index.m3u8$超清1080P
-山东卫视,https://livealone302.iqilu.com/iqilu/sdtv.m3u8$超清1080P
 山东教育卫视,https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8$超清1080P
 中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
+山东齐鲁 http://iptv.cooltv.top/tv/shandong.php?id=qlpd
+山东体育 http://iptv.cooltv.top/tv/shandong.php?id=typd 
+山东生活 http://iptv.cooltv.top/tv/shandong.php?id=shpd
+山东综艺 http://iptv.cooltv.top/tv/shandong.php?id=zypd
+山东新闻 http://iptv.cooltv.top/tv/shandong.php?id=ggpd
+山东农科 http://iptv.cooltv.top/tv/shandong.php?id=nkpd
+山东文旅 http://iptv.cooltv.top/tv/shandong.php?id=yspd 
+山东少儿 http://iptv.cooltv.top/tv/shandong.php?id=sepd 
+山东居家购物 http://iptv.cooltv.top/tv/shandong.php?id=gwpd 
+济南新闻综合 http://iptv.cooltv.top/tv/jinan.php?id=13
+济南都市 http://iptv.cooltv.top/tv/jinan.php?id=6 
+济南文体 http://iptv.cooltv.top/tv/jinan.php?id=7 
+济南娱乐 http://iptv.cooltv.top/tv/jinan.php?id=8 
+济南生活 http://iptv.cooltv.top/tv/jinan.php?id=9
+济南商务 http://iptv.cooltv.top/tv/jinan.php?id=10 
+济南少儿 http://iptv.cooltv.top/tv/jinan.php?id=11
+济南发布 http://iptv.cooltv.top/tv/jinan.php?id=12
 济南教育,http://livejnedu.chinamcache.com/live/jneduzb01.m3u8?shandd
 济南鲁中,https://quehuamtyoutlive.ijntv.cn/j8pukt/452907.m3u8
 青岛城阳,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
@@ -4586,15 +4601,19 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 
 🇨🇳四川综合,#genre#
 四川卫视,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=scws
-四川卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295002.m3u8
-四川新闻,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8
-四川经济,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv28f9fb5888dedbe0c6a1b/1.m3u8
-四川文化旅游,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv38f9fb5888dedbe0c6a1b/1.m3u8
-四川影视文艺 ,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv58f9fb5888dedbe0c6a1b/1.m3u8 
-四川妇女儿童 ,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv78f9fb5888dedbe0c6a1b/1.m3u8 
-四川乡村 ,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv98f9fb5888dedbe0c6a1b/1.m3u8 
-四川星空购物 ,http://120.221.180.152/scgctvshow.sctv.com/hdlive/sctv68f9fb5888dedbe0c6a1b/1.m3u8
-四川科教,http://3017ugjo.live2.danghongyun.com:80/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8
+四川文化旅游,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/SCTV-2-H265_4000.m3u8
+四川经济,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/SCTV-3-H265_4000.m3u8
+四川新闻,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/SCTV-4H265_4000.m3u8
+四川影视文艺,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/SCTV-5-scysH265_4000.m3u8
+四川科教,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/SCTV-ggSCTV-8_4000.m3u8
+四川乡村,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/SCTV-kjSCTV-9-_4000.m3u8
+成都高新区,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/cdgxdstgq_2000.m3u8
+成都新闻综合,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/CDTV-1_4000.m3u8
+成都每日购物,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/mrgw_4000.m3u8
+成都经济资讯,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/CDTV-2_4000.m3u8
+成都都市生活,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/CDTV-3_4000.m3u8
+成都影视文艺,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/CDTV-4_4000.m3u8
+成都公共频道,http://[240e:974:1e00:100::42]/livehkkp.chinamcache.com/live/CDTV-5_4000.m3u8
 锦阳综合,http://live.sctvcloud.com/live/mytvzh/playlist.m3u8
 锦阳公共,http://live.sctvcloud.com/live/mytvgg/playlist.m3u8
 南充综合,https://nczbpull.ncntv.com.cn/nctv/2004.m3u8
@@ -4940,6 +4959,10 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 内蒙文体,http://124.220.17.172/nmgpd.php?id=166
 农牧频道,http://124.220.17.172/nmgpd.php?id=167
 内蒙生活,http://124.220.17.172/nmgpd.php?id=168
+鄂尔多斯新闻综合,http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8?zneimd
+鄂尔多斯经济服务,http://live.erdszs.org.cn/lsdream/ogvfqcp/1000/live.m3u8?zneimd
+鄂尔多斯城市生活,http://live.erdszs.org.cn/lsdream/726npBZ/1000/live.m3u8?zneimd
+鄂尔多斯蒙语综合,http://live.erdszs.org.cn/lsdream/3lZr8dK/1000/live.m3u8?zneimd
 乌兰察布新闻综合,http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8
 乌兰察布经济生活,http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8
 乌兰察布生活频道,http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
