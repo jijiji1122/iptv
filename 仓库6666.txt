@@ -4488,23 +4488,23 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 🇨🇳山东综合,#genre#
 山东教育卫视,https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8$超清1080P
 中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
-山东齐鲁 http://iptv.cooltv.top/tv/shandong.php?id=qlpd
-山东体育 http://iptv.cooltv.top/tv/shandong.php?id=typd 
-山东生活 http://iptv.cooltv.top/tv/shandong.php?id=shpd
-山东综艺 http://iptv.cooltv.top/tv/shandong.php?id=zypd
-山东新闻 http://iptv.cooltv.top/tv/shandong.php?id=ggpd
-山东农科 http://iptv.cooltv.top/tv/shandong.php?id=nkpd
-山东文旅 http://iptv.cooltv.top/tv/shandong.php?id=yspd 
-山东少儿 http://iptv.cooltv.top/tv/shandong.php?id=sepd 
-山东居家购物 http://iptv.cooltv.top/tv/shandong.php?id=gwpd 
-济南新闻综合 http://iptv.cooltv.top/tv/jinan.php?id=13
-济南都市 http://iptv.cooltv.top/tv/jinan.php?id=6 
-济南文体 http://iptv.cooltv.top/tv/jinan.php?id=7 
-济南娱乐 http://iptv.cooltv.top/tv/jinan.php?id=8 
-济南生活 http://iptv.cooltv.top/tv/jinan.php?id=9
-济南商务 http://iptv.cooltv.top/tv/jinan.php?id=10 
-济南少儿 http://iptv.cooltv.top/tv/jinan.php?id=11
-济南发布 http://iptv.cooltv.top/tv/jinan.php?id=12
+山东齐鲁,http://iptv.cooltv.top/tv/shandong.php?id=qlpd
+山东体育,http://iptv.cooltv.top/tv/shandong.php?id=typd 
+山东生活,http://iptv.cooltv.top/tv/shandong.php?id=shpd
+山东综艺,http://iptv.cooltv.top/tv/shandong.php?id=zypd
+山东新闻,http://iptv.cooltv.top/tv/shandong.php?id=ggpd
+山东农科,http://iptv.cooltv.top/tv/shandong.php?id=nkpd
+山东文旅,http://iptv.cooltv.top/tv/shandong.php?id=yspd 
+山东少儿,http://iptv.cooltv.top/tv/shandong.php?id=sepd 
+山东居家购物,http://iptv.cooltv.top/tv/shandong.php?id=gwpd 
+济南新闻综合,http://iptv.cooltv.top/tv/jinan.php?id=13
+济南都市,http://iptv.cooltv.top/tv/jinan.php?id=6 
+济南文体,http://iptv.cooltv.top/tv/jinan.php?id=7 
+济南娱乐,http://iptv.cooltv.top/tv/jinan.php?id=8 
+济南生活,http://iptv.cooltv.top/tv/jinan.php?id=9
+济南商务,http://iptv.cooltv.top/tv/jinan.php?id=10 
+济南少儿,http://iptv.cooltv.top/tv/jinan.php?id=11
+济南发布,http://iptv.cooltv.top/tv/jinan.php?id=12
 济南教育,http://livejnedu.chinamcache.com/live/jneduzb01.m3u8?shandd
 济南鲁中,https://quehuamtyoutlive.ijntv.cn/j8pukt/452907.m3u8
 青岛城阳,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
@@ -4952,13 +4952,15 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 海西综合,http://stream.haixitv.cn/1/sd/live.m3u8
 玉树综合,http://stream.ysbtv.net/1/sd/live.m3u8
 🇨🇳内蒙综合,#genre#
-内蒙新闻,http://124.220.17.172/nmgpd.php?id=162
-蒙古语文化,http://124.220.17.172/nmgpd.php?id=163
-蒙古语卫视,http://124.220.17.172/nmgpd.php?id=164
-内蒙少儿,http://124.220.17.172/nmgpd.php?id=165
-内蒙文体,http://124.220.17.172/nmgpd.php?id=166
-农牧频道,http://124.220.17.172/nmgpd.php?id=167
-内蒙生活,http://124.220.17.172/nmgpd.php?id=168
+内蒙古卫视,http://1.183.141.194:8000/hls/16/index.m3u8
+内蒙古文体娱乐,http://1.183.141.194:8000/hls/17/index.m3u8
+内蒙古农牧频道,http://1.183.141.194:8000/hls/18/index.m3u8
+内蒙古综合,http://1.183.141.194:8000/hls/19/index.m3u8
+内蒙古经济生活,http://1.183.141.194:8000/hls/20/index.m3u8
+内蒙古少儿,http://1.183.141.194:8000/hls/21/index.m3u8
+鄂尔多斯经济,http://1.183.141.194:8000/hls/42/index.m3u8
+鄂尔多斯新闻,http://1.183.141.194:8000/hls/43/index.m3u8
+鄂尔多斯城市,http://1.183.141.194:8000/hls/44/index.m3u8
 鄂尔多斯新闻综合,http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8?zneimd
 鄂尔多斯经济服务,http://live.erdszs.org.cn/lsdream/ogvfqcp/1000/live.m3u8?zneimd
 鄂尔多斯城市生活,http://live.erdszs.org.cn/lsdream/726npBZ/1000/live.m3u8?zneimd
