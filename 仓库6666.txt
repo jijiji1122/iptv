@@ -718,6 +718,7 @@ IPTV5＋(轮播),rtp://232.0.0.119:1234
 甘肃卫视,http://live.cooltv.top/tv/aishang.php?id=gsws
 宁夏卫视,http://livepgc.cmc.ningxiahuangheyun.com/pgc/deb40eb3174c0c2d62c30810f0087d64.m3u8?txSecret=27098501b42eae2199df753a323534df&txTime=6326BD7B
 厦门卫视,http://live.cooltv.top/tv/aishang.php?id=xmws
+兵团卫视,http://test5.btzx.com.cn/live/xjbtws.stream/playlist.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
@@ -4555,7 +4556,7 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 
 🇨🇳广东综合,#genre#
 广东珠江,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdzj
-广东体育,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdty
+广东体育,http://27.47.70.107:808/hls/59/index.m3u8
 广东经济科教,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdjjkj
 广东综艺,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdzy
 广东少儿,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdse
