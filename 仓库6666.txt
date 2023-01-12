@@ -4739,17 +4739,14 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 岱岳综合,http://slvedio.slradio.cn/a935908a217711ea8bb000163e0e6522/4D6357B92240C088F3612E43E44B5F1D.m3u8?shadd
 
 🇨🇳广东综合,#genre#
-广东珠江,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdzj
-广东体育,http://27.47.70.107:808/hls/59/index.m3u8
-广东经济科教,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdjjkj
-广东综艺,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdzy
-广东少儿,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdse
-广东新闻,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdxw
-广东影视,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdys
-广东影视,http://lu1.cc/c/tv/sjtv/p/migu.php?id=gdys
-广东公共,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdgg
-广东国际,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdxw
-广东移动,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdyd
+广东珠江,http://183.28.157.251:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://183.28.157.251:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共,http://183.28.157.251:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://183.28.157.251:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://183.28.157.251:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://183.28.157.251:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://183.28.157.251:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://183.28.157.251:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广州综合,http://iptv.cooltv.top/tv/guangzhou.php?id=gzzh 
 广州法治,http://iptv.cooltv.top/tv/guangzhou.php?id=gzfz 
