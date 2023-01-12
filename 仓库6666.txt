@@ -2744,7 +2744,7 @@ CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC16145198161451
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-淘电影,http://219.142.151.252:9901/tsfile/live/1010_1.m3u8
+淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
 北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 华语经典,http://epg.112114.xyz/douyu/434971
 吃米滴虫,http://epg.112114.xyz/douyu/315457
@@ -3758,7 +3758,7 @@ BTV生活,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappsheng
 BTV财经,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV卡酷少儿,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225677/2/index.m3u8
 北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-北京淘电影,http://219.142.151.252:9901/tsfile/live/1010_1.m3u8
+北京淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
 
 🇨🇳上海综合,#genre#
 第一财经,http://61.156.196.94/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
