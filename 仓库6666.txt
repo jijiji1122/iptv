@@ -854,6 +854,7 @@ IPTV5＋(轮播),rtp://232.0.0.119:1234
 宁夏卫视,http://livepgc.cmc.ningxiahuangheyun.com/pgc/deb40eb3174c0c2d62c30810f0087d64.m3u8?txSecret=27098501b42eae2199df753a323534df&txTime=6326BD7B
 厦门卫视,http://live.cooltv.top/tv/aishang.php?id=xmws
 兵团卫视,http://test5.btzx.com.cn/live/xjbtws.stream/playlist.m3u8
+三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
