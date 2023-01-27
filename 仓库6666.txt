@@ -1920,10 +1920,8 @@ TVB 财经,http://120.84.96.78:808/hls/86/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 东森综合 HD,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 东森综合ETTVMetro,http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
-东森洋片,http://120.84.96.71:808/hls/33/index.m3u8
 东森新闻,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 东森戏剧,http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
-东森电影ETTVMovie,http://120.84.96.96:808/hls/32/index.m3u8
 东森超视,http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
 翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 华丽台,http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
@@ -3250,57 +3248,73 @@ SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 🇨🇳电影影视,#genre#
 黑莓电影,http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225769/index.m3u8
 黑莓电影,http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225718/index.m3u8
-东森电影,http://120.84.96.73:808/hls/32/index.m3u8
-东森电影,http://120.84.96.89:808/hls/32/index.m3u8
-东森电影,http://120.84.96.96:808/hls/32/index.m3u8
-东森洋片,http://120.84.96.73:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.85:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.89:808/hls/33/index.m3u8
-龙祥时代,http://120.84.96.85:808/hls/35/index.m3u8
-龙祥时代,http://120.84.96.89:808/hls/35/index.m3u8
-龙祥时代,http://120.84.96.120:808/hls/35/index.m3u8
-龙祥时代,http://120.84.96.126:808/hls/35/index.m3u8
-天映頻道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
-天映經典,http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89
 天映經典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
 天映經典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-东森电影,http://107.151.203.111:2209/135/hk.php?id=dsdyt
-东森洋片,http://107.151.203.111:2209/135/hk.php?id=dsypt
-龙祥电影,http://107.151.203.111:2209/135/hk.php?id=lxsdt
-美亚电影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
 美亞電影HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 美亞電影HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-HBO,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-HBO原創,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 HBO原創,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-HBO家庭,http://198.16.64.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
-HBO原创,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO 原创巨献,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO原创,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO原创,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+HBO家庭,http://198.16.64.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+HBO原創,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 HBO家庭,http://198.16.64.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 HBO家庭,http://198.16.64.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO強檔,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+HBO HD,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
+HBO家庭,http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
+好萊塢電影 HD,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+龍祥時代,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=lxsd
+美亞電影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+美亞電影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+CATCHPLAY電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+CATCHPLAY電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
+天映經典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+天映經典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
+CINEMAX HD,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-纬来电影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
-纬来电影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?ct=18335&tid=ma2dac66da407&tsum=9a5a39559f64a71081ef9b3a85f2886c
-星街电影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-好莱坞电影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-好莱坞电影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 CATCHPLAY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 CATCHPLAY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
+好莱坞电影,http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.m3u8
+美亞電影,http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+纬来戏剧台,http://pull-l3-cny.douyincdn.com/third/stream-cf93b19e055f2800058541033c0c4355.m3u8
+緯來電影台,http://pull-l3-cny.douyincdn.com/third/stream-6de7ee8878da79aaf393c0f63081cb0c.m3u8
+星卫电影台,http://23.237.10.66:16359
+星卫电影台,http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8
+卫视中文台,http://pull-l3-cny.douyincdn.com/third/stream-41f29bf461ffa99e595f70b9593c61aa.m3u8
+AXN,http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a437299311112b7f4902c9dd.m3u8
+CINEMAX,http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+東森洋片台HD,https://epg.pw/stream/f60231613cebdb7c005c4848efcb2dbd6f6b5204094d636e790e10b78072cc47.ctv
+東森洋片台,http://38.60.38.65:6868/wmm668.php?id=ettvwestern
+龙祥电影台,http://38.60.38.65:6868/wmm668.php?id=lungxiangtime_twn
+龙华电影,http://www.336699.live:1935/blockfour/litv-longturn03.stream/playlist.m3u8
 影迷纪实台,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8
 靖天电影,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
 CINEMAX,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
-CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+有线财经台,http://pull-l3-cny.douyincdn.com/third/stream-6cce73798021d977d916afacf1caba36.m3u8
+TVBS新闻台,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+RT英语新闻,http://pull-l3-cny.douyincdn.com/third/stream-01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
+寰宇新闻台,http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.m3u8
+星卫电影台,http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8
+纬来戏剧台,http://pull-l3-cny.douyincdn.com/third/stream-cf93b19e055f2800058541033c0c4355.m3u8
+莲花电影台,http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
+美亚电影台,http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+湖南电影台,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f896e9.m3u8
+CINEMAX,http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+HBO HD,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
+HBO家庭影院,http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
+HBO原创电影,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
+HBO强档影院,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
 午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
 票房电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
 每日影院,http://182.151.211.171:808/hls/128/index.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+峨眉电影,http://[2409:8c10:c00:0:1b::]/livehkkp.chinamcache.com/live/emdygqH265_4000.m3u8
+峨眉电影,http://[2409:8c10:c00:0:20::]/livehkkp.chinamcache.com/live/emdygqH265_4000.m3u8
 峨嵋电影,http://182.151.211.171:808/hls/58/index.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -4299,6 +4313,215 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 航拍贵州,https://epg.pm/stream/83f714e29844a813a076c3b5c232e0384b24e898a997bf18a3f3ff3c7c0f16bf.m3u8
 航拍陕西,https://epg.pm/stream/03056908cf52ea6406af89e48a1c1395e0e50b1c333fbbe3aaa3e095775872f2.m3u8
 航拍黑龙江,https://epg.pm/stream/dc0f111e36160867b4f5ee645ec8a6c9bf44513ade0e9af3bbbe09b3205b793c.m3u8
+
+🇨🇳测试,#genre#
+HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
+HBO家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646
+HBO原创,http://line.premiumpowers.net:80/Manuel/1234567/941645
+HBO强档,http://line.premiumpowers.net:80/Manuel/1234567/941647
+AXN,http://line.premiumpowers.net:80/Manuel/1234567/941660
+CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659
+HITS MOVIES,http://line.premiumpowers.net:80/Manuel/1234567/941606
+ANIMAX,http://line.premiumpowers.net:80/Manuel/1234567/941676
+ROCK,http://line.premiumpowers.net:80/Manuel/1234567/941643
+CCM经典,http://line.premiumpowers.net:80/Manuel/1234567/941639
+天映,http://line.premiumpowers.net:80/Manuel/1234567/941618
+卫视电影台,http://line.premiumpowers.net:80/Manuel/1234567/941625
+NOW紫金国际台,http://line.premiumpowers.net:80/Manuel/1234567/941630
+NOW MAKE,http://line.premiumpowers.net:80/Manuel/1234567/941655
+NET WORK,http://line.premiumpowers.net:80/Manuel/1234567/941654
+TVB 1,http://line.premiumpowers.net:80/Manuel/1234567/153396
+TVB E,http://line.premiumpowers.net:80/Manuel/1234567/153398
+无线新闻,http://line.premiumpowers.net:80/Manuel/1234567/153399
+TVB 戏剧,http://line.premiumpowers.net:80/Manuel/1234567/153400
+TVB 翡翠,http://line.premiumpowers.net:80/Manuel/1234567/153401
+F新时代1,http://line.premiumpowers.net:80/Manuel/1234567/90351
+F新时代2,http://line.premiumpowers.net:80/Manuel/1234567/90352
+TVB星河,http://line.premiumpowers.net:80/Manuel/1234567/941620
+翡翠 海外版,http://line.premiumpowers.net:80/Manuel/1234567/941619
+TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
+UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941649
+UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941650
+UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941633
+UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941632
+UHB娱家,http://line.premiumpowers.net:80/Manuel/1234567/941651
+UHB娱家,http://line.premiumpowers.net:80/Manuel/1234567/941634
+HISTORY,http://line.premiumpowers.net:80/Manuel/1234567/941661
+爱自然,http://line.premiumpowers.net:80/Manuel/1234567/941663
+WB TV,http://line.premiumpowers.net:80/Manuel/1234567/941652
+国家地理1,http://line.premiumpowers.net:80/Manuel/1234567/941664
+国家地理2,http://line.premiumpowers.net:80/Manuel/1234567/941665
+CRIME+,http://line.premiumpowers.net:80/Manuel/1234567/941666
+BBC earth,http://line.premiumpowers.net:80/Manuel/1234567/941667
+BBC lifesyle,thttp://line.premiumpowers.net:80/Manuel/1234567/941668
+NICK JR,http://line.premiumpowers.net:80/Manuel/1234567/941670
+NICK CLODEON,http://line.premiumpowers.net:80/Manuel/1234567/941671
+BBC CBEEBIES,http://line.premiumpowers.net:80/Manuel/1234567/941672
+CART NITO,http://line.premiumpowers.net:80/Manuel/1234567/941673
+BABY FIRST,http://line.premiumpowers.net:80/Manuel/1234567/941675
+FTV,http://line.premiumpowers.net:80/Manuel/1234567/941677
+HUB SPORTS4,http://line.premiumpowers.net:80/Manuel/1234567/941681
+ABC AUSTRALIA,http://line.premiumpowers.net:80/Manuel/1234567/941682
+FOX NEWS, http://line.premiumpowers.net:80/Manuel/1234567/941685
+DW NEWS,http://line.premiumpowers.net:80/Manuel/1234567/941687
+CNBC NEWS,http://line.premiumpowers.net:80/Manuel/1234567/941689
+CNN LIVE,http://line.premiumpowers.net:80/Manuel/1234567/941690
+BBC WORLD NEWS,http://line.premiumpowers.net:80/Manuel/1234567/941693
+亚洲旅游,http://line.premiumpowers.net:80/Manuel/1234567/941640
+迪士尼卡通,http://line.premiumpowers.net:80/Manuel/1234567/941656
+YTV,http://line.premiumpowers.net:80/Manuel/1234567/941657
+CINEMA WORLD,http://line.premiumpowers.net:80/Manuel/1234567/941658
+KBS WORLD,http://line.premiumpowers.net:80/Manuel/1234567/941631
+KBS WORLD,http://line.premiumpowers.net:80/Manuel/1234567/941604
+UHB剧场首选,http://line.premiumpowers.net:80/Manuel/1234567/941638
+GEM,http://line.premiumpowers.net:80/Manuel/1234567/941635
+GEM,http://line.premiumpowers.net:80/Manuel/1234567/941608
+2ND,http://line.premiumpowers.net:80/Manuel/1234567/941636
+TVBS亚洲台,http://line.premiumpowers.net:80/Manuel/1234567/941621
+TVN,http://line.premiumpowers.net:80/Manuel/1234567/941623
+卫视中文台,http://line.premiumpowers.net:80/Manuel/1234567/941624
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941628
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941601
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941602
+NHK,http://line.premiumpowers.net:80/Manuel/1234567/941610
+SONGS,http://line.premiumpowers.net:80/Manuel/1234567/941611
+8TV,http://line.premiumpowers.net:80/Manuel/1234567/941616
+MEDIACORP,http://line.premiumpowers.net:80/Manuel/1234567/941617
+CITSA,http://line.premiumpowers.net:80/Manuel/1234567/941612
+KARISMA,http://line.premiumpowers.net:80/Manuel/1234567/941605
+ASTRO WARNA,http://line.premiumpowers.net:80/Manuel/1234567/941609
+SUN MUSIC,http://line.premiumpowers.net:80/Manuel/1234567/941590
+SUN TV,http://line.premiumpowers.net:80/Manuel/1234567/941591
+SONY MAX,http://line.premiumpowers.net:80/Manuel/1234567/941592
+SONY TV,http://line.premiumpowers.net:80/Manuel/1234567/941593
+NDTV,http://line.premiumpowers.net:80/Manuel/1234567/941594
+KTV,http://line.premiumpowers.net:80/Manuel/1234567/941595
+COLORS1,http://line.premiumpowers.net:80/Manuel/1234567/941597
+COLORS2,http://line.premiumpowers.net:80/Manuel/1234567/941598
+COLORS3,http://line.premiumpowers.net:80/Manuel/1234567/941599
+ZEE1,http://line.premiumpowers.net:80/Manuel/1234567/941587
+ZEE2,http://line.premiumpowers.net:80/Manuel/1234567/941588
+ZEE3,http://line.premiumpowers.net:80/Manuel/1234567/941589
+SPO TV1,http://line.premiumpowers.net:80/Manuel/1234567/941564
+STAR HUB,http://line.premiumpowers.net:80/Manuel/1234567/941567
+BEIN SPORTS2,http://line.premiumpowers.net:80/Manuel/1234567/941568
+BEIN SPORTS1,http://line.premiumpowers.net:80/Manuel/1234567/941569
+NBA,http://line.premiumpowers.net:80/Manuel/1234567/941562
+SPO TV2,http://line.premiumpowers.net:80/Manuel/1234567/941563
+Eleven Sports 1,http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2531/index.m3u8
+Eleven Sports 2,http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2532/index.m3u8
+Eleven Sports 3,http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2533/index.m3u8
+Eleven Sports 4,http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2534/index.m3u8
+HUB SPORTS 1 HD,http://line.premiumpowers.net:80/Manuel/1234567/941573
+HUB SPORTS 2 HD,http://line.premiumpowers.net:80/Manuel/1234567/941572
+HUB SPORTS 3 HD,http://line.premiumpowers.net:80/Manuel/1234567/941571
+HUB PREMIER 1 FHD,http://line.premiumpowers.net:80/Manuel/1234567/1032529
+HUB PREMIER 2 FHD,http://line.premiumpowers.net:80/Manuel/1234567/1032528
+HUB PREMIER 3 FHD,http://line.premiumpowers.net:80/Manuel/1234567/1032527
+HUB PREMIER 4 FHD,http://line.premiumpowers.net:80/Manuel/1234567/1032526
+HUB PREMIER 5 FHD,http://line.premiumpowers.net:80/Manuel/1234567/1032525
+HUB PREMIER 6 FHD,http://line.premiumpowers.net:80/Manuel/1234567/1032524
+HUB PREMIER 7 FHD,http://line.premiumpowers.net:80/Manuel/1234567/1032523
+HUB PREMIER 8 FHD,http://line.premiumpowers.net:80/Manuel/1234567/1032522
+HUB PREMIER 9 FHD,http://line.premiumpowers.net:80/Manuel/1234567/1032521
+HUB PREMIER 10 FHD,http://line.premiumpowers.net:80/Manuel/1234567/1032520
+HUB PREMIER 11 FHD,http://line.premiumpowers.net:80/Manuel/1234567/1032519
+PREMIER SPORTS HD,http://line.premiumpowers.net:80/Manuel/1234567/941570
+BEINSPORTS 1 PREMIUM HD,http://line.premiumpowers.net:80/Manuel/1234567/596931
+BEINSPORTS 2 PREMIUM HD,http://line.premiumpowers.net:80/Manuel/1234567/596930
+BEINSPORTS 3 PREMIUM HD,http://line.premiumpowers.net:80/Manuel/1234567/596929
+BEINSPORTS 1 HD,http://line.premiumpowers.net:80/Manuel/1234567/596928
+BEINSPORTS 2 HD,http://line.premiumpowers.net:80/Manuel/1234567/596927
+BEINSPORTS 3 HD,http://line.premiumpowers.net:80/Manuel/1234567/596926
+BEINSPORTS 4高清,http://line.premiumpowers.net:80/Manuel/1234567/596925
+BEINSPORTS 5高清,http://line.premiumpowers.net:80/Manuel/1234567/596924
+BEINSPORTS 6高清,http://line.premiumpowers.net:80/Manuel/1234567/596923
+BEINSPORTS 7高清,http://line.premiumpowers.net:80/Manuel/1234567/596922
+BEIN SPORT XTRA 1 HD,http://line.premiumpowers.net:80/Manuel/1234567/699243
+BEIN SPORT XTRA 2 HD,http://line.premiumpowers.net:80/Manuel/1234567/699242
+BEIN SPORT NBA HD,http://line.premiumpowers.net:80/Manuel/1234567/1011633
+BEINSPORTS 1 EN HD,http://line.premiumpowers.net:80/Manuel/1234567/596919
+BEINSPORTS 2 EN HD,http://line.premiumpowers.net:80/Manuel/1234567/596918
+BEINSPORTS 3 EN HD,http://line.premiumpowers.net:80/Manuel/1234567/596917
+BEIN SPORT FRENCH 1 HD,http://line.premiumpowers.net:80/Manuel/1234567/699235
+BEIN SPORT FRENCH 2 HD,http://line.premiumpowers.net:80/Manuel/1234567/699234
+SKY SPORTS 主赛事高清,http://line.premiumpowers.net:80/Manuel/1234567/30496
+SKY SPORTS PL HD,http://line.premiumpowers.net:80/Manuel/1234567/30493
+SKY SPORTS FOOTBALL HD,http://line.premiumpowers.net:80/Manuel/1234567/30498
+SKY SPORTS NFL HD,http://line.premiumpowers.net:80/Manuel/1234567/30501
+SKY SPORTS ARENA HD,http://line.premiumpowers.net:80/Manuel/1234567/30500
+SKY SPORTS CRICKET HD,http://line.premiumpowers.net:80/Manuel/1234567/30502
+SKY SPORTS F1 HD,http://line.premiumpowers.net:80/Manuel/1234567/30499
+SKY SPORTS GOLF HD,http://line.premiumpowers.net:80/Manuel/1234567/30497
+SKY SPORTS MIX HD,http://line.premiumpowers.net:80/Manuel/1234567/30495
+SKY SPORTS NEWS HD,http://line.premiumpowers.net:80/Manuel/1234567/30494
+SKY SPORTS RACING HD,http://line.premiumpowers.net:80/Manuel/1234567/77373
+SKY SPORTS ACTION HD,http://line.premiumpowers.net:80/Manuel/1234567/929003
+CANAL+ FOOT HD,http://line.premiumpowers.net:80/Manuel/1234567/1002837
+CANAL+ 360 HD,http://line.premiumpowers.net:80/Manuel/1234567/1002841
+CANAL+ SPORT HD,http://line.premiumpowers.net:80/Manuel/1234567/506557
+CANAL+ TOP14高清,http://line.premiumpowers.net:80/Manuel/1234567/506558
+CANAL+ PREMIER LEAGUE HD,http://line.premiumpowers.net:80/Manuel/1234567/506556
+CANAL+ LIGUE1 HD,http://line.premiumpowers.net:80/Manuel/1234567/506554
+CANAL+ LIGUE1 HD (BK),http://line.premiumpowers.net:80/Manuel/1234567/506555
+CANAL+ FORMULA1 HD,http://line.premiumpowers.net:80/Manuel/1234567/506553
+RMC SPORT 2 FHD,http://line.premiumpowers.net:80/Manuel/1234567/506548
+RMC SPORT LIVE 5 FHD,http://line.premiumpowers.net:80/Manuel/1234567/506645
+RMC SPORT LIVE 6 FHD,http://line.premiumpowers.net:80/Manuel/1234567/506646
+RMC SPORT LIVE 7 FHD,http://line.premiumpowers.net:80/Manuel/1234567/506647
+RMC SPORT LIVE 8 FHD,http://line.premiumpowers.net:80/Manuel/1234567/506648
+RMC SPORT LIVE 9 FHD,http://line.premiumpowers.net:80/Manuel/1234567/506649
+BEIN SPORTS 1 HD FRANCE,http://line.premiumpowers.net:80/Manuel/1234567/506552
+BEIN SPORTS 2 HD FRANCE,http://line.premiumpowers.net:80/Manuel/1234567/506551
+BEIN SPORTS 3 HD FRANCE,http://line.premiumpowers.net:80/Manuel/1234567/506550
+BEIN SPORTS MAX 4 HD FRANCE,http://line.premiumpowers.net:80/Manuel/1234567/506653
+BEIN SPORTS MAX 5 HD FRANCE,http://line.premiumpowers.net:80/Manuel/1234567/506654
+BEIN SPORTS MAX 6 HD FRANCE,http://line.premiumpowers.net:80/Manuel/1234567/506655
+BEIN SPORTS MAX 7 HD FRANCE,http://line.premiumpowers.net:80/Manuel/1234567/506656
+BEIN SPORTS MAX 8 HD FRANCE,http://line.premiumpowers.net:80/Manuel/1234567/506657
+BEIN SPORTS MAX 9 HD FRANCE,http://line.premiumpowers.net:80/Manuel/1234567/506658
+BEIN SPORTS MAX 10 HD FRANCE,http://line.premiumpowers.net:80/Manuel/1234567/506652
+EQUIPE FHD,http://line.premiumpowers.net:80/Manuel/1234567/506619
+EUROSPORT 1 FHD,http://line.premiumpowers.net:80/Manuel/1234567/506559
+EUROSPORT 2 FHD,http://line.premiumpowers.net:80/Manuel/1234567/506560
+德国天空体育新闻,http://line.premiumpowers.net:80/Manuel/1234567/889503
+SKY SPORT F1 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889504
+SKY SPORT BUNDESLIGA 1 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889502
+SKY SPORT BUNDESLIGA DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/984666
+SKY SPORT TOP EVENT DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/984665
+SKY SPORT TENNIS DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/984664
+SKY SPORT PREMIER LEAGUE DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/984663
+SKY SPORT MIX DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/984662
+SKY SPORT GOLF DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/984661
+SKY SPORT BUNDESLIGA 2 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889501
+SKY SPORT BUNDESLIGA 3 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889500
+SKY SPORT BUNDESLIGA 4 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889499
+SKY SPORT BUNDESLIGA 5 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889498
+SKY SPORT BUNDESLIGA 6 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889497
+SKY SPORT BUNDESLIGA 7 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889496
+SKY SPORT BUNDESLIGA 8 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889495
+SKY SPORT BUNDESLIGA 9 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889494
+SKY SPORT BUNDESLIGA 10 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889492
+SKY SPORT 1 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889491
+SKY SPORT 2 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889489
+SKY SPORT 3 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889488
+SKY SPORT 4 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889486
+SKY SPORT 5 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889485
+SKY SPORT 6 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889483
+SKY SPORT 7 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889482
+SKY SPORT 8 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889480
+SKY SPORT 9 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889479
+SKY SPORT 10 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889478
+SKY SPORT AUSTRIA 1 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889477
+SKY SPORT AUSTRIA 2 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889476
+SKY SPORT AUSTRIA 3 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889475
+SKY SPORT AUSTRIA 4 DEUTSCHLAND,http://line.premiumpowers.net:80/Manuel/1234567/889473
+BT SPORTS 1 HD,http://line.premiumpowers.net:80/Manuel/1234567/30567
+BT SPORTS 2 HD,http://line.premiumpowers.net:80/Manuel/1234567/30566
+BT SPORTS 3 HD,http://line.premiumpowers.net:80/Manuel/1234567/30565
+BT SPORTS 4 HD,http://line.premiumpowers.net:80/Manuel/1234567/1019935
+BT SPORTS 5 HD,http://line.premiumpowers.net:80/Manuel/1234567/1004548
+
 🇨🇳北京综合,#genre#
 BTV文艺,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 BTV文艺,http://live.cooltv.top/tv/btime.php?id=btvwy
