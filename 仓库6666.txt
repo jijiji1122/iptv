@@ -4521,6 +4521,100 @@ BT SPORTS 2 HD,http://line.premiumpowers.net:80/Manuel/1234567/30566
 BT SPORTS 3 HD,http://line.premiumpowers.net:80/Manuel/1234567/30565
 BT SPORTS 4 HD,http://line.premiumpowers.net:80/Manuel/1234567/1019935
 BT SPORTS 5 HD,http://line.premiumpowers.net:80/Manuel/1234567/1004548
+翡翠台,http://2022.stream-link.org/playlist/tvb_jade
+華麗(翡翠)台,http://2022.stream-link.org/playlist/astro_jade
+八度空間,http://2022.stream-link.org/playlist/8tv
+無綫新聞台,http://2022.stream-link.org/playlist/tvb_news
+無綫財經資訊台,http://2022.stream-link.org/playlist/tvb_finance
+有線新聞,http://2022.stream-link.org/playlist/cable_news
+有線財經,http://2022.stream-link.org/playlist/cable_finance
+香港開電視,http://2022.stream-link.org/playlist/hoy
+now新聞,http://2022.stream-link.org/playlist/now_news
+now財經,http://2022.stream-link.org/playlist/now_finance
+now精選體育,http://2022.stream-link.org/playlist/now_sports
+鳳凰中文台,http://2022.stream-link.org/playlist/phtv_live
+鳳凰資訊台,http://2022.stream-link.org/playlist/phtv_info
+港台電視31,http://2022.stream-link.org/playlist/rthk_31
+港台電視32,http://2022.stream-link.org/playlist/rthk_32
+澳門蓮花衛視,http://2022.stream-link.org/playlist/macau_lotustv
+東森新聞,http://2022.stream-link.org/playlist/ebc_news
+東森財經新聞,http://2022.stream-link.org/playlist/ebc_finance
+中天新聞,http://2022.stream-link.org/playlist/cti_news
+華視新聞,http://2022.stream-link.org/playlist/cts_news
+中視新聞,http://2022.stream-link.org/playlist/ctv_news
+民視新聞,http://2022.stream-link.org/playlist/ftv_news
+寰宇新聞,http://2022.stream-link.org/playlist/global_news
+寰宇台灣新聞,http://2022.stream-link.org/playlist/global_tw
+三立財經新聞,http://2022.stream-link.org/playlist/set_inews
+三立新聞,http://2022.stream-link.org/playlist/set_news
+三立新聞+,http://2022.stream-link.org/playlist/set_news+
+台視新聞,http://2022.stream-link.org/playlist/ttv_news
+TVBS新聞,http://2022.stream-link.org/playlist/tvbs_news
+TVBS,http://2022.stream-link.org/playlist/tvbs
+華視,http://2022.stream-link.org/playlist/cts_zy
+三立綜合台,http://2022.stream-link.org/playlist/set_zh
+台視,http://2022.stream-link.org/playlist/ttv
+中天綜合台,http://2022.stream-link.org/playlist/cti_zh
+Love Nature,http://2022.stream-link.org/playlist/love_nature
+東森yoyo,http://2022.stream-link.org/playlist/ebc_yoyo
+華視(2023台中新站跨年演唱會),http://2022.stream-link.org/playlist/cts_2023
+翡翠台,http://2023.stream-link.org/playlist/tvb_jade
+華麗(翡翠)台,http://2023.stream-link.org/playlist/astro_jade
+無綫新聞台,http://2023.stream-link.org/playlist/tvb_news
+無綫財經·體育·資訊台,http://2023.stream-link.org/playlist/tvb_fanince
+港台电视31,http://2023.stream-link.org/playlist/rthk_31
+港台电视32,http://2023.stream-link.org/playlist/rthk_32
+有線新聞台,http://2023.stream-link.org/playlist/cable_news
+有線財經資訊台,http://2023.stream-link.org/playlist/cable_finance
+香港開電視,http://2023.stream-link.org/playlist/hoy_tv
+香港開電視資訊台,http://2023.stream-link.org/playlist/hoy_info
+鳳凰資訊台,http://2023.stream-link.org/playlist/phtv_info
+鳳凰中文台,http://2023.stream-link.org/playlist/phtv_live
+澳門蓮花衛視,http://2023.stream-link.org/playlist/macau_lotustv
+東森新聞,http://2023.stream-link.org/playlist/ebc_news
+東森財經新聞,http://2023.stream-link.org/playlist/ebc_finance
+華視新聞,http://2023.stream-link.org/playlist/cts_news
+中天新聞,http://2023.stream-link.org/playlist/cti_news
+中視新聞,http://2023.stream-link.org/playlist/ctv_news
+民視新聞,http://2023.stream-link.org/playlist/ftv_news
+寰宇國際新聞,http://2023.stream-link.org/playlist/global_news
+寰宇台灣新聞,http://2023.stream-link.org/playlist/global_tw
+三立財經新聞,http://2023.stream-link.org/playlist/set_inews
+三立新聞,http://2023.stream-link.org/playlist/set_news
+三立新聞+,http://2023.stream-link.org/playlist/set_news+
+台視新聞,http://2023.stream-link.org/playlist/ttv_news
+TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news
+TVBS財經,http://2023.stream-link.org/playlist/tvbs
+中天綜合台,http://2023.stream-link.org/playlist/cti_zh
+天才衝衝衝,http://2023.stream-link.org/playlist/cts_zy
+東森yoyo,http://2023.stream-link.org/playlist/ebc_yoyo
+Discovery,http://www.yshmzmc.top/gtjm.php?id=live1002
+自然,http://www.yshmzmc.top/gtjm.php?id=live1003
+动物星球,http://www.yshmzmc.top/gtjm.php?id=live1004
+TLC,http://www.yshmzmc.top/gtjm.php?id=live1005
+BABY TV,http://www.yshmzmc.top/gtjm.php?id=live1007
+东森幼幼,http://www.yshmzmc.top/gtjm.php?id=live1008
+纬来体育,http://www.yshmzmc.top/gtjm.php?id=live1011
+东森新闻,http://www.yshmzmc.top/gtjm.php?id=live1014
+中天新闻,http://www.yshmzmc.top/gtjm.php?id=live1015
+三立都会台,http://www.yshmzmc.top/gtjm.php?id=live1020
+中天娱乐,http://www.yshmzmc.top/gtjm.php?id=live1023
+卫视中文,http://www.yshmzmc.top/gtjm.php?id=live1024
+HBO,http://www.yshmzmc.top/gtjm.php?id=live1029
+卫视电影台,http://www.yshmzmc.top/gtjm.php?id=live1031
+movie gold,http://www.yshmzmc.top/gtjm.php?id=live1032
+star world,http://www.yshmzmc.top/gtjm.php?id=live1040
+八大第一台,http://www.yshmzmc.top/gtjm.php?id=live1043
+CNN,http://www.yshmzmc.top/gtjm.php?id=live1063
+ELEVEN1,http://www.yshmzmc.top/gtjm.php?id=live1069
+ELEVEN2,http://www.yshmzmc.top/gtjm.php?id=live1072
+年代新闻,http://www.yshmzmc.top/gtjm.php?id=live1077
+三立新闻,http://www.yshmzmc.top/gtjm.php?id=live1079
+寰宇新闻,http://www.yshmzmc.top/gtjm.php?id=live1222
+博斯运动1,http://www.yshmzmc.top/gtjm.php?id=live1225
+壹新闻,http://www.yshmzmc.top/gtjm.php?id=live1242
+MOMO综合,http://www.yshmzmc.top/gtjm.php?id=live1248
+年代much,http://www.yshmzmc.top/gtjm.php?id=live2002
 
 🇨🇳北京综合,#genre#
 BTV文艺,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
