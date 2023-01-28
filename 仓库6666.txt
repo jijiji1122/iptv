@@ -4321,7 +4321,7 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 航拍陕西,https://epg.pm/stream/03056908cf52ea6406af89e48a1c1395e0e50b1c333fbbe3aaa3e095775872f2.m3u8
 航拍黑龙江,https://epg.pm/stream/dc0f111e36160867b4f5ee645ec8a6c9bf44513ade0e9af3bbbe09b3205b793c.m3u8
 
-🇨🇳测试,#genre#
+🇨🇳测试1,#genre#
 HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
 HBO家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646
 HBO原创,http://line.premiumpowers.net:80/Manuel/1234567/941645
@@ -4528,6 +4528,9 @@ BT SPORTS 2 HD,http://line.premiumpowers.net:80/Manuel/1234567/30566
 BT SPORTS 3 HD,http://line.premiumpowers.net:80/Manuel/1234567/30565
 BT SPORTS 4 HD,http://line.premiumpowers.net:80/Manuel/1234567/1019935
 BT SPORTS 5 HD,http://line.premiumpowers.net:80/Manuel/1234567/1004548
+
+
+🇨🇳测试2,#genre#
 翡翠台,http://2022.stream-link.org/playlist/tvb_jade
 華麗(翡翠)台,http://2022.stream-link.org/playlist/astro_jade
 八度空間,http://2022.stream-link.org/playlist/8tv
@@ -4622,7 +4625,127 @@ ELEVEN2,http://www.yshmzmc.top/gtjm.php?id=live1072
 壹新闻,http://www.yshmzmc.top/gtjm.php?id=live1242
 MOMO综合,http://www.yshmzmc.top/gtjm.php?id=live1248
 年代much,http://www.yshmzmc.top/gtjm.php?id=live2002
-
+🇨🇳测试3,#genre#
+凤凰中文,http://193.29.189.71:6868/mmm22.php?id=phoenixtv_hd
+RTHK31,http://193.29.189.71:6868/mmm22.php?id=rhk31_twn
+RTHK32,http://193.29.189.71:6868/mmm22.php?id=rhk32_twn
+翡翠台1,http://193.29.189.71:6868/mmm22.php?id=jade98_twn
+翡翠台2,http://193.29.189.71:6868/mmm22.php?id=jade_twn
+无线新闻台,http://193.29.189.71:6868/mmm22.php?id=inews_twn
+无线新闻台,http://193.29.189.71:6868/mmm22.php?id=inews98_twn
+香港无线财经台,http://193.29.189.71:6868/mmm22.php?id=j5_twn
+无线财经台,http://193.29.189.71:6868/mmm22.php?id=tvbcaijing_twn
+娱乐新闻台,http://193.29.189.71:6868/mmm22.php?id=tvbxinhe_twn
+J2,http://193.29.189.71:6868/mmm22.php?id=j2_twn
+明珠台,http://193.29.189.71:6868/mmm22.php?id=pearl_twn
+ViuTV,http://193.29.189.71:6868/mmm22.php?id=9ae6d37d9a
+ViuTV,http://193.29.189.71:6868/mmm22.php?id=viu_twn
+VIUTV1,http://193.29.189.71:6868/mmm22.php?id=viu1_twn
+VIUTV6,http://193.29.189.71:6868/mmm22.php?id=viusix_twn
+TVB星河,http://193.29.189.71:6868/mmm22.php?id=Xinhe
+東森电影台,http://193.29.189.71:6868/mmm22.php?id=ettvmovie
+纬来电影,http://193.29.189.71:6868/mmm22.php?id=videolandmovie
+龙祥电影台1,http://193.29.189.71:6868/mmm22.php?id=cb7a1fec69
+龙祥电影台,http://193.29.189.71:6868/mmm22.php?id=lungxiangtime_twn
+美亚电影台,http://193.29.189.71:6868/mmm22.php?id=meiyamovie_twn
+星卫电影台,http://193.29.189.71:6868/mmm22.php?id=xingwei_movie
+天映频道1,http://193.29.189.71:6868/mmm22.php?id=Celestialindo
+天映频道2,http://193.29.189.71:6868/mmm22.php?id=Celestial
+好莱坞电影台,http://193.29.189.71:6868/mmm22.php?id=hollywoodmovies_twn
+Thrill,http://193.29.189.71:6868/mmm22.php?id=Thrill
+Boo,http://193.29.189.71:6868/mmm22.php?id=Boo
+Hits,http://193.29.189.71:6868/mmm22.php?id=Hts
+Hits Movie,http://193.29.189.71:6868/mmm22.php?id=Htsmovie
+星空电影 Movies,http://193.29.189.71:6868/mmm22.php?id=starmovies_raj
+AXN,http://193.29.189.71:6868/mmm22.php?id=Axn
+AXNTW,http://193.29.189.71:6868/mmm22.php?id=axn_twn
+CINEMAX,http://193.29.189.71:6868/mmm22.php?id=cinemax_twn
+长城精品,http://193.29.189.71:6868/mmm22.php?id=chcfamily
+🇨🇳测试5,#genre#
+老电影,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
+经典卡通台,http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
+精选动漫台,http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
+影迷纪实台,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
+历史,http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
+MTV,http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
+CI罪案现场,http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist.m3u8
+Lifetime,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
+LIVE互动英语,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+尼克儿童,http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
+中天综合,http://www.336699.live:1935/blocksix/4gtv-live033.stream/chunklist.m3u8
+东森购物,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
+东森购物2,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+全球财经,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
+Cinema worid,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
+DW,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
+TVBS HD,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
+HITS频道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
+台湾戏剧,http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
+台湾综艺,http://www.336699.live:1935/blocksix/4gtv-live006.stream/chunklist.m3u8
+大爱,http://www.336699.live:1935/blocksix/4gtv-live007.stream/chunklist.m3u8
+ROLLOR,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
+东森财经新闻,http://www.336699.live:1935/blocksix/4gtv-live019.stream/chunklist.m3u8
+TVBS精采台,http://www.336699.live:1935/blocksix/4gtv-live086.stream/chunklist.m3u8
+三立新闻,http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
+尼克儿童2,http://www.336699.live:1935/blocksix/4gtv-live105.stream/chunklist.m3u8
+大爱2,http://www.336699.live:1935/blocksix/4gtv-live106.stream/chunklist.m3u8
+momo亲子,http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist.m3u8
+科教,http://www.336699.live:1935/blocksix/4gtv-live109.stream/chunklist.m3u8
+宠物台,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
+东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+Gobal,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+LUXE,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
+ELTA生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+中天美食旅游,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
+CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
+ACTION,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
+金光布袋戏,http://www.336699.live:1935/blocksix/4gtv-live144.stream/chunklist.m3u8
+Catchplay,http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunklist.m3u8
+MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
+居家,http://www.336699.live:1935/blocksix/4gtv-live206.stream/chunklist.m3u8
+三立综合台,http://www.336699.live:1935/blocksix/4gtv-live207.stream/chunklist.m3u8
+LOVE Nature,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
+民视第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+民视综艺台,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+民视台湾台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+猪哥亮歌厅秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+cnex,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
+时尚运动,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+八大精彩台,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
+八大综合台,http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
+中视,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+公视戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+华视,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+客家,http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
+靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+靖洋戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+靖天日本,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
+采昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+华视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+GINX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+靖天欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+靖天映画台,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+靖洋卡通台,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
+靖天戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+靖天电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
+靖天国际台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+靖天育乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+中视青采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+TVBS欢乐,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+ELTA娱乐,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+catch play,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+trace,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+中视经典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
+arir,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+mezzo,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+TRACE,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 🇨🇳北京综合,#genre#
 BTV文艺,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 BTV文艺,http://live.cooltv.top/tv/btime.php?id=btvwy
