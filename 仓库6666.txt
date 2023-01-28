@@ -1840,7 +1840,7 @@ Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_de
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8?zgangd
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
-凤凰香港,http://120.84.96.78:808/hls/81/index.m3u8
+凤凰香港,http://jyjxy.7766.org:8811/hls/34/index.m3u8
 台视,http://23.237.10.66:16344
 台视,http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -1904,9 +1904,7 @@ Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_de
 翡翠台,http://120.84.96.96:808/hls/25/index.m3u8
 翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.96:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.108:808/hls/79/index.m3u8
+星空卫视,http://jyjxy.7766.org:8811/hls/31/index.m3u8
 TVBS新闻台 ,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
@@ -3248,10 +3246,13 @@ SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 🇨🇳电影影视,#genre#
 黑莓电影,http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225769/index.m3u8
 黑莓电影,http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225718/index.m3u8
+东森电影,http://jyjxy.7766.org:8811/hls/58/index.m3u8
+天映经典,http://jyjxy.7766.org:8811/hls/62/index.m3u8
 天映經典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
 天映經典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+龙翔时代,http://jyjxy.7766.org:8811/hls/38/index.m3u8
 美亞電影HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 美亞電影HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 HBO原創,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
