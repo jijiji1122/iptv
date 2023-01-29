@@ -6457,6 +6457,24 @@ NNM家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/in
 康巴语广播,https://tv.vtibet.cn/live/radiochannel3.m3u8
 都市生活广播,https://tv.vtibet.cn/live/radiochannel4.m3u8
 藏语科教广播,https://tv.vtibet.cn/live/radiochannel5.m3u8
+🇨🇳青海综合,#genre#
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
+青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
+青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
+西宁生活,http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
+西宁新闻,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+玉树新闻,http://stream.ysbtv.net/1/sd/live.m3u8
+德令哈综合,http://livecdn.dmqhyadmin.com/hls/xjdelingha.m3u8
+贵南综合,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
+海西州综合,http://stream.haixitv.cn/1/sd/live.m3u8
+化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
+湟中综合,http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
+门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
+囊谦综合,http://pili-live-hls-qhnqapp2020.sobeylive.com/qhnqapp2020/qhnqtv01.m3u8
+祁连综合,http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
 🇨🇳新疆综合,#genre#
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 新疆卫视,http://lu1.cc/c/tv/sjtv/p/migu.php?id=xjws
