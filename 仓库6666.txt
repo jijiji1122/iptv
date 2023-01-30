@@ -1082,6 +1082,7 @@ CHC家庭影院,http://fengyeos.f3322.org:8002/udp/239.33.2.210:22100
 厦门卫视,http://live.cooltv.top/tv/aishang.php?id=xmws
 兵团卫视,http://test5.btzx.com.cn/live/xjbtws.stream/playlist.m3u8
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+内蒙古卫视,http://1.183.141.194:8000/hls/16/index.m3u8
 湖南卫视,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227232/index.m3u8
 东方卫视,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227059/index.m3u8
 浙江卫视,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227193/index.m3u8
