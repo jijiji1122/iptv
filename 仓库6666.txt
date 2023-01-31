@@ -1027,19 +1027,26 @@ CHC家庭影院,http://fengyeos.f3322.org:8002/udp/239.33.2.210:22100
 广东卫视,http://live.cooltv.top/tv/aishang.php?id=gdwshd
 广西卫视,http://live.cooltv.top/tv/aishang.php?id=gxws
 贵州卫视,http://live.cooltv.top/tv/aishang.php?id=gzwshd
+青海卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225727/2/index.m3u8
 青海卫视,http://live.cooltv.top/tv/aishang.php?id=qhws
 深圳卫视 ,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 深圳卫视,http://live.cooltv.top/tv/aishang.php?id=szwshd
 西藏卫视,https://tv.vtibet.cn:443/live/EfgSmE4jCTBtvchannel3.m3u8
 西藏卫视,http://live.cooltv.top/tv/aishang.php?id=xzws
+新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 新疆卫视,http://live.cooltv.top/tv/aishang.php?id=xjws
 河北卫视,http://live.cooltv.top/tv/aishang.php?id=hbwshd
+云南卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 云南卫视,http://live.cooltv.top/tv/aishang.php?id=ynws
+陕西卫视,http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215607/main.m3u8?IASHttpSessionId=OTT
 陕西卫视,http://live.cooltv.top/tv/aishang.php?id=sxws
+甘肃卫视,http://[2409:8087:5050:20::3023]/180000001001/00000001000000000045000000287932/main.m3u8?IASHttpSessionId=OTT
 甘肃卫视,http://live.cooltv.top/tv/aishang.php?id=gsws
 宁夏卫视,http://livepgc.cmc.ningxiahuangheyun.com/pgc/deb40eb3174c0c2d62c30810f0087d64.m3u8?txSecret=27098501b42eae2199df753a323534df&txTime=6326BD7B
+厦门卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 厦门卫视,http://live.cooltv.top/tv/aishang.php?id=xmws
+海峡卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 兵团卫视,http://test5.btzx.com.cn/live/xjbtws.stream/playlist.m3u8
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 内蒙古卫视,http://1.183.141.194:8000/hls/16/index.m3u8
@@ -5196,7 +5203,7 @@ BTV财经,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m
 BTV财经,http://live.cooltv.top/tv/btime.php?id=btvcj
 BTV体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 BTV体育,http://iptv.cooltv.top/tv/btime.php?id=bjjs
-BTV体育,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=1672541449&sign=dbd0def0539909209c12e07231ee1bb9
+BTV体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 BTV体育,https://beijing-live4.itouchtv.cn/gehua/btvjishi.m3u8?auth_key=1672548511-0-0-836dfb6400f8b405a1d09d5f2fe2ca71
 BTV生活,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 BTV生活,http://live.cooltv.top/tv/btime.php?id=btvsh
