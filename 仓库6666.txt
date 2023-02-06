@@ -4997,7 +4997,7 @@ mezzo,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 TRACE,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 🇨🇳测试6,#genre#
-有线财经台,http://pull-l3-cny.douyincdn.com/third/stream-6cce73798021d977d916afacf1caba36.m3u8
+有线财经台,https://pull-l3-cny.douyincdn.com/live/a4abfb168ba8d5ed7807bd4c3a650126.flv
 寰宇新闻台,http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.m3u8
 星卫电影台,http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8
 莲花电影台,http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
@@ -5043,7 +5043,7 @@ HBO强档影院,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929
 KBS1 HD,http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.flv
 MBC HD,http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.flv
 SBS HD,http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.flv
-
+NOW爆谷台,https://pull-l3-cny.douyincdn.com/live/6a8c00004c3812942497bafe58ea1139.flv
 🇨🇳北京综合,#genre#
 BTV文艺,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 BTV文艺,http://live.cooltv.top/tv/btime.php?id=btvwy
