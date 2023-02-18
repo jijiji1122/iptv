@@ -5023,21 +5023,21 @@ MBC HD,http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa2
 SBS HD,http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.flv
 NOW爆谷台,https://pull-l3-cny.douyincdn.com/live/6a8c00004c3812942497bafe58ea1139.flv
 🇨🇳北京综合,#genre#
-BTV文艺,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
+BTV文艺,http://111.62.156.88/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 BTV文艺,http://live.cooltv.top/tv/btime.php?id=btvwy
 BTV科教,http://live.cooltv.top/tv/btime.php?id=btvkj
 BTV科教,http://124.236.18.251/yfsl.vsd.gehua.net.cn/live/BTVKeJiaoHD_6000.m3u8
-BTV影视,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
+BTV影视,http://111.62.156.88/pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
 BTV影视,http://live.cooltv.top/tv/btime.php?id=btvys
-BTV财经,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
+BTV财经,http://111.62.156.88/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 BTV财经,http://live.cooltv.top/tv/btime.php?id=btvcj
 BTV体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 BTV体育,http://iptv.cooltv.top/tv/btime.php?id=bjjs
 BTV体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 BTV体育,https://beijing-live4.itouchtv.cn/gehua/btvjishi.m3u8?auth_key=1672548511-0-0-836dfb6400f8b405a1d09d5f2fe2ca71
-BTV生活,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
+BTV生活,http://111.62.156.88/pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 BTV生活,http://live.cooltv.top/tv/btime.php?id=btvsh
-BTV青年,http://111.62.156.13/pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
+BTV青年,http://111.62.156.88/pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
 BTV青年,hhttp://live.cooltv.top/tv/btime.php?id=btvqn
 BTV新闻,http://live.cooltv.top/tv/btime.php?id=btvxw
 BTV新闻,https://live.funhillrm.com/5/sd/live.m3u8
