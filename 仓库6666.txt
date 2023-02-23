@@ -2194,17 +2194,14 @@ CBA07,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=
 咪咕视频,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227228/index.m3u8?servicetype=3
 🇨🇳体育频道,#genre#
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
-纬来体育,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
 ELTA体育2台,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
 ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
 ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8
-Eleven Sports 1,http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2531/index.m3u8
-Eleven Sports 2,http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2532/index.m3u8
-Eleven Sports 3,http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2533/index.m3u8
-Eleven Sports 4,http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2534/index.m3u8
-时尚运动X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+ESPN,http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1427
+ESPN 2 高清,http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1429
+ESPNews,http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1434
 CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -3557,6 +3554,12 @@ HBO Mundi,http://208.115.225.174:14148
 HBO Mundi,http://208.115.225.174:14148
 HBO signature,http://208.115.225.174:14160
 HBO signature,http://208.115.225.174:14160
+HBO,http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/161
+HBO 2 高清,http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/164
+HBO Comedy,http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/167
+HBO Family,http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/169
+HBO Signature,http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/173
+HBO Zone,http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/175
 龍祥時代,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=lxsd
 CATCHPLAY電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 CATCHPLAY電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
