@@ -625,6 +625,29 @@ CCTV13,http://222.129.37.201:8888/rtp/239.3.1.124:8128
 CCTV14,http://222.129.37.201:8888/rtp/239.3.1.65:8132
 CCTV15,http://222.129.37.201:8888/rtp/239.3.1.153:8136
 CCTV17,http://222.129.37.201:8888/rtp/239.3.1.151:8144
+CCTV1,http://home.111818.xyz:8888/udp/239.76.245.51:1234
+CCTV1,http://home.111818.xyz:8888/udp/239.76.246.151:1234
+CCTV2,http://home.111818.xyz:8888/udp/239.76.246.152:1234
+CCTV3,http://home.111818.xyz:8888/udp/239.76.246.153:1234
+CCTV4,http://home.111818.xyz:8888/udp/239.76.245.195:1234
+CCTV4,http://home.111818.xyz:8888/udp/239.76.246.154:1234
+CCTV5,http://home.111818.xyz:8888/udp/239.76.246.155:1234
+CCTV5+,http://home.111818.xyz:8888/udp/239.76.246.168:1234
+CCTV6,http://home.111818.xyz:8888/udp/239.76.246.156:1234
+CCTV7,http://home.111818.xyz:8888/udp/239.76.246.157:1234
+CCTV8,http://home.111818.xyz:8888/udp/239.76.246.158:1234
+CCTV9,http://home.111818.xyz:8888/udp/239.76.246.159:1234
+CCTV10,http://home.111818.xyz:8888/udp/239.76.246.160:1234
+CCTV11,http://home.111818.xyz:8888/udp/239.76.245.251:1234
+CCTV12,http://home.111818.xyz:8888/udp/239.76.246.162:1234
+CCTV13,http://home.111818.xyz:8888/udp/239.76.246.93:1234
+CCTV14,http://home.111818.xyz:8888/udp/239.76.246.164:1234
+CCTV15,http://home.111818.xyz:8888/udp/239.76.245.252:1234
+CCTV16,http://home.111818.xyz:8888/udp/239.76.246.98:1234
+CCTV17,http://home.111818.xyz:8888/udp/239.76.245.238:1234
+CCTV16 4K,http://home.111818.xyz:8888/udp/239.76.246.214:1234
+CCTV16 4k,http://home.111818.xyz:8888/udp/239.76.246.224:1234
+CCTV16 4kR,http://home.111818.xyz:8888/udp/239.76.246.230:1234
 CCTV1,http://www.dyc.com.cn:8002/udp/239.3.1.129:8008
 CCTV2,http://www.dyc.com.cn:8002/udp/239.3.1.60:8084
 CCTV3,http://www.dyc.com.cn:8002/udp/239.3.1.172:8001
@@ -691,7 +714,7 @@ CCTV17,http://www.yiyibest.com:7777/udp/239.49.8.52:9810
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-风云足球,http://d[2409:8087:7001:20:2::3]:80/biptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+风云足球,http://[2409:8087:7001:20:2::3]:80/biptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 风云音乐,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8    
 风云足球,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8    
@@ -699,18 +722,18 @@ CCTV17,http://www.yiyibest.com:7777/udp/239.49.8.52:9810
 第一剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8    
 兵器科技,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8    
 央视台球,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8  
-风云剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
-求索纪录,http://baidu.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
-兵器科技,http://baidu.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
-游戏风云,http://baidu.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f//index.m3u8
-幸福娱乐,http://baidu.live.cqccn.com/__cl/cg:live/__c/xfylHD/__op/default/__f//index.m3u8
-风尚生活,http://baidu.live.cqccn.com/__cl/cg:live/__c/fsshHD/__op/default/__f//index.m3u8
-怀旧剧场,http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
-风云音乐,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
-央视台球,http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
-风云足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
-文化精品,http://baidu.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8
-高尔夫网球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
+风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
+求索纪录,http://hls.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
+兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
+游戏风云,http://hls.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f//index.m3u8
+幸福娱乐,http://hls.live.cqccn.com/__cl/cg:live/__c/xfylHD/__op/default/__f//index.m3u8
+风尚生活,http://hls.live.cqccn.com/__cl/cg:live/__c/fsshHD/__op/default/__f//index.m3u8
+怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
+风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
+央视台球,http://hls.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
+风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
+文化精品,http://hls.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8
+高尔夫网球,http://hls.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
 
 🇨🇳辽宁移动,#genre#
 辽宁卫视,http://[2409:8087:1414:22::112d]/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226731/index.m3u8
