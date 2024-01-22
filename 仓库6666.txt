@@ -274,10 +274,6 @@ IPTV5＋(轮播),rtp://232.0.0.119:1234
 
 
 🇨🇳咪咕频道,#genre#
-CBA,http://mmmitv.top/test/cba.php
-CBA,http://mmmitv.top/test/cba.php?type=0 
-CBA,http://mmmitv.top/test/cba.php?type=1 
-CBA,http://mmmitv.top/test/cba.php?type=2
 咪咕体育1,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225914/index.m3u8
 咪咕体育2,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
 咪咕体育3,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225910/index.m3u8
@@ -373,52 +369,4 @@ CBA,http://mmmitv.top/test/cba.php?type=2
 咪咕直播-53,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 咪咕直播-1-4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播-2-4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-
-🇨🇳斗鱼直播,#genre#
-芜湖大司马丶,https://epg.112114.xyz/douyu/606118
-一条小团团OvO,https://epg.112114.xyz/douyu/2222
-Pdd,https://epg.112114.xyz/douyu/101
-Xleft小叮当,https://epg.112114.xyz/douyu/3168536
-寅子,https://epg.112114.xyz/douyu/71415
-Big茄子,https://epg.112114.xyz/douyu/9418
-温柚,https://epg.112114.xyz/douyu/5910850
-呆妹儿小霸王,https://epg.112114.xyz/douyu/2947432
-白鲨AyoM,https://epg.112114.xyz/douyu/12821
-白鲨N9,https://epg.112114.xyz/douyu/88899
-女流66,https://epg.112114.xyz/douyu/156277
-金咕咕金咕咕doinb,https://epg.112114.xyz/douyu/252140
-李知恩nn,https://epg.112114.xyz/douyu/4921614
-东北大鹌鹑,https://epg.112114.xyz/douyu/96291
-主播阿飞,https://epg.112114.xyz/douyu/84452
-不2不叫周淑怡,https://epg.112114.xyz/douyu/290935
-汉宫年鹏Enpi,https://epg.112114.xyz/douyu/5389181
-白鲨石头丶,https://epg.112114.xyz/douyu/255287
-穿越火线运营团队,https://epg.112114.xyz/douyu/605964
-白鲨常旭DBQ,https://epg.112114.xyz/douyu/9442053
-Wn99吴南,https://epg.112114.xyz/douyu/5396028
-旭旭宝宝斗,https://epg.112114.xyz/douyu/99999
-🇨🇳虎牙直播,#genre#
-张大仙,https://epg.112114.xyz/huya/688
-女战神梧桐,https://epg.112114.xyz/huya/812813
-久帝-阿飞,https://epg.112114.xyz/huya/512000
-AG绝迹,https://epg.112114.xyz/huya/115959
-林肯,https://epg.112114.xyz/huya/161688
-AG一个K,https://epg.112114.xyz/huya/199868
-AG欧欧,https://epg.112114.xyz/huya/113939
-虎牙穿越火线赛事,https://epg.112114.xyz/huya/660101
-70kg,https://epg.112114.xyz/huya/117070
-Zz1tai姿态,https://epg.112114.xyz/huya/333003
-狂鸟丶楚河-90327,https://epg.112114.xyz/huya/998
-LING-赖神,https://epg.112114.xyz/huya/99724
-不求人,https://epg.112114.xyz/huya/9986
-鲨鱼呦,https://epg.112114.xyz/huya/400298
-LING-张老三,https://epg.112114.xyz/huya/52333
-狼队小胖,https://epg.112114.xyz/huya/24147418
-虎牙斯诺克,https://epg.112114.xyz/huya/880214
-狼队Fly,https://epg.112114.xyz/huya/742610
-小予神【矛神】,https://epg.112114.xyz/huya/503708
-韩涵TuT,https://epg.112114.xyz/huya/774810
-KPL职业联赛,https://epg.112114.xyz/huya/660002
-
-
 
