@@ -370,3 +370,15 @@ IPTV5＋(轮播),rtp://232.0.0.119:1234
 咪咕直播-1-4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播-2-4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 
+🇨🇳斯诺克,#genre#
+虎牙斯诺克1,http://cfss.cc/cdn/hy/880214.flv
+虎牙斯诺克2,http://cfss.cc/cdn/hy/880625.flv
+虎牙斯诺克3,http://cfss.cc/cdn/hy/20072620.flv
+虎牙斯诺克4,http://cfss.cc/cdn/hy/20072624.flv
+虎牙斯诺克5,http://cfss.cc/cdn/hy/390635.flv
+虎牙斯诺克6,http://cfss.cc/cdn/hy/26385822.flv
+虎牙斯诺克7,http://cfss.cc/cdn/hy/29385237.flv
+虎牙斯诺克8,http://cfss.cc/cdn/hy/28258706.flv
+虎牙斯诺克9,http://cfss.cc/cdn/hy/22939862.flv
+虎牙斯诺克10,http://cfss.cc/cdn/hy/28569319.flv
+
