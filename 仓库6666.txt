@@ -375,7 +375,7 @@ IPTV5＋(轮播),rtp://232.0.0.119:1234
 虎牙斯诺克2,http://cfss.cc/cdn/hy/880625.m3u8
 虎牙斯诺克3,http://cfss.cc/cdn/hy/20072620.m3u8
 虎牙斯诺克4,http://cfss.cc/cdn/hy/20072624.m3u8
-虎牙斯诺克5,https://epg.112114.xyz/huya/880214
+虎牙斯诺克5,https://live.metshop.top/huya/880214
 虎牙斯诺克6,http://cfss.cc/cdn/hy/26385822.m3u8
 虎牙斯诺克7,http://cfss.cc/cdn/hy/29385237.m3u8
 虎牙斯诺克8,http://cfss.cc/cdn/hy/28258706.m3u8
