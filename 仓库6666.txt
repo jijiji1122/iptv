@@ -803,10 +803,10 @@ CETV4,http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226940/i
 咪视界30,http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
 咪视界31,http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
 咪视界32,http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
-
-
-
-
-
-
-
+虎牙,#genre#
+虎牙斯诺克,http://wg2026.duckdns.org:12345/liveplus.php?hy=880214
+一诺台球解说,http://wg2026.duckdns.org:12345/liveplus.php?hy=10147
+乐一解说,http://wg2026.duckdns.org:12345/liveplus.php?hy=29385237
+老范说台球,http://wg2026.duckdns.org:12345/liveplus.php?hy=154825
+波哥斯诺克,http://wg2026.duckdns.org:12345/liveplus.php?hy=31189591
+划线王,http://wg2026.duckdns.org:12345/liveplus.php?hy=153793
